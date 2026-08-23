@@ -48,19 +48,21 @@ svg:not([fill]) {
 /* end mini reset */
 
 :root {
-  --color__site--background: hsl(0, 0%, 97%);
-  --color__text--primary: hsl(0, 0%, 1%);
-  --color__text--secondary: hsl(0, 0%, 42%);
-  --color__text--tertiary: hsl(0, 0%, 54%);
-  --color__border: hsl(0, 0%, 87%);
+  color-scheme: light dark;
+
+  --color__site--background: light-dark(hsl(0, 0%, 97%), hsl(220, 5%, 13%));
+  --color__text--primary: light-dark(hsl(0, 0%, 1%), hsl(0, 0%, 97%));
+  --color__text--secondary: light-dark(hsl(0, 0%, 42%), hsl(0, 0%, 80%));
+  --color__text--tertiary: light-dark(hsl(0, 0%, 54%), hsl(0, 0%, 70%));
+  --color__border: light-dark(hsl(0, 0%, 87%), hsl(220, 5%, 8%));
 }
 
-[dark] {
-  --color__site--background: hsl(220, 5%, 13%);
-  --color__text--primary: hsl(0, 0%, 97%);
-  --color__text--secondary: hsl(0, 0%, 80%);
-  --color__text--tertiary: hsl(0, 0%, 70%);
-  --color__border: hsl(220, 5%, 8%);
+[data-theme="light"] {
+  color-scheme: light;
+}
+
+[data-theme="dark"] {
+  color-scheme: dark;
 }
 
 body {
@@ -111,10 +113,6 @@ a {
   max-inline-size: 18rem;
 }
 
-[dark] .header {
-  filter: invert(1);
-}
-
 .theme-toggle svg,
 .github-link svg {
   inline-size: 1rem;
@@ -134,16 +132,40 @@ a {
   background: transparent;
 }
 
-[dark] .theme-toggle--to-dark {
+@media (prefers-color-scheme: light) {
+  .theme-toggle--to-light {
+    display: none;
+  }
+
+  .theme-toggle--to-dark {
+    display: block;
+  }
+}
+
+[data-theme="light"] .theme-toggle--to-light {
   display: none;
 }
 
-.theme-toggle--to-light {
-  display: none;
-}
-
-[dark] .theme-toggle--to-light {
+[data-theme="light"] .theme-toggle--to-dark {
   display: block;
+}
+
+@media (prefers-color-scheme: dark) {
+  .theme-toggle--to-light {
+    display: block;
+  }
+
+  .theme-toggle--to-dark {
+    display: none;
+  }
+}
+
+[data-theme="dark"] .theme-toggle--to-light {
+  display: block;
+}
+
+[data-theme="dark"] .theme-toggle--to-dark {
+  display: none;
 }
 
 .github-link {
@@ -228,12 +250,14 @@ a {
 
 .tag-filter__pill {
   padding-inline: .5rem;
+  padding-block: .4rem;
   border: 1px solid var(--color__text--tertiary);
   border-radius: 0.25rem;
   background: transparent;
   color: var(--color__text--secondary);
   font-size: .8rem;
   cursor: pointer;
+  white-space: nowrap;
 }
 
 .tag-filter__pill:is(:hover, :focus-visible) {
@@ -503,6 +527,10 @@ a {
     content: '';
     background-image: url(/assets/images/dots-3x8.svg);
     background-repeat: no-repeat;
+
+    @media (prefers-color-scheme: dark) {
+      filter: invert(1);
+    }
   }
 
   .header:before {

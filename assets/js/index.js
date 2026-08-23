@@ -1,8 +1,17 @@
 // @ts-check
 
-const toggleTheme = (e) => {
-  document.documentElement.toggleAttribute('dark');
+const toggleTheme = () => {
+  const root = document.documentElement;
+  const currentTheme = root.getAttribute('data-theme');
+
+  const isDark = currentTheme
+    ? currentTheme === 'dark'
+    : window.matchMedia('(prefers-color-scheme: dark)').matches;
+
+  const newTheme = isDark ? 'light' : 'dark';
+  root.setAttribute('data-theme', newTheme);
 };
+
 const toggleActiveTray = (e) => {
   const items = [...document.querySelectorAll('.item')];
   const parentContainer = e.target.closest('.items');

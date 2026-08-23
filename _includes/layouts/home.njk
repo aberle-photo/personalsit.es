@@ -28,18 +28,6 @@
                 {# <a class="filter-link" href="/alphabetical">View sites in alphabetical order</a> #}
             </nav>
         </article>
-    </header>
-    <section class="tag-filter" aria-label="Filter sites by tag">
-        <h2 class="visually-hidden">Filter sites by tag</h2>
-        <p class="tag-filter__hint">Filter by selecting any number of tags. Sites matching any of them are shown.</p>
-        <div class="tag-filter__pills">
-            {% for tagItem in collections.allTags %}
-                <button class="tag-filter__pill" type="button" data-tag="{{ tagItem.tag }}" aria-pressed="false">
-                    {{ tagItem.tag }} <span class="tag-filter__count">({{ tagItem.count }})</span>
-                </button>
-            {% endfor %}
-        </div>
-    </section>
     <div class="fixed-nav">
         <a class="fixed-nav__logo" href="#">
             <svg aria-label="Go to top" viewBox="0 0 112 34">
@@ -67,6 +55,19 @@
             <path d="M453 2.5a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zM231 2.5a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zM675 2.5a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zM897 2.5a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zM83 2.5a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zM527 2.5a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zM305 2.5a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zM749 2.5a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zM971 2.5a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zM157 2.5a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zM601 2.5a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zM379 2.5a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zM823 2.5a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zM1045 2.5a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zM46 2.5a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zM490 2.5a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zM268 2.5a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zM712 2.5a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zM934 2.5a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zM120 2.5a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zM564 2.5a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zM342 2.5a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zM786 2.5a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zM1008 2.5a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zM194 2.5a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zM638 2.5a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zM416 2.5a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zM860 2.5a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zM1082 2.5a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zM5.5 2.5a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0z"/>
         </svg>
     </div>
+    </header>
+    <section class="tag-filter" aria-label="Filter sites by tag">
+        <h2 class="visually-hidden">Filter sites by tag</h2>
+        <p class="tag-filter__hint">Filter by selecting any number of tags. Sites matching any of them are shown.</p>
+        <div class="tag-filter__pills">
+            {% for tagItem in collections.allTags %}
+                <button class="tag-filter__pill" type="button" data-tag="{{ tagItem.tag }}" aria-pressed="false">
+                    {{ tagItem.tag }} <span class="tag-filter__count">({{ tagItem.count }})</span>
+                </button>
+            {% endfor %}
+        </div>
+    </section>
+    
     <main>
         <ul class="items">
             {% for item in collections.sites | shuffle %}

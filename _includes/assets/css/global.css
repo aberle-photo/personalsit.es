@@ -98,6 +98,7 @@ a {
   margin-inline: auto;
   padding-block: 14rem 4.5rem;
   padding-inline: 1rem;
+  view-timeline: --site-head;
 }
 
 .header {
@@ -286,7 +287,53 @@ a {
 
 }
 
+@property --nav-bg {
+  syntax: '<color>';
+  inherits: false;
+  initial-value: transparent;
+}
+
+@property --nav-border-color {
+  syntax: '<color>';
+  inherits: false;
+  initial-value: transparent;
+}
+
+@property --logo-progress {
+  syntax: '<number>';
+  inherits: false;
+  initial-value: 0;
+}
+
+@property --border-progress {
+  syntax: '<number>';
+  inherits: false;
+  initial-value: 0;
+}
+
+@keyframes nav-reveal {
+  to {
+    pointer-events: all;
+    --nav-bg: var(--color__site--background);
+    --nav-border-color: var(--color__text--tertiary);
+  }
+}
+
+@keyframes nav-logo-in {
+  to {
+    --logo-progress: 1;
+  }
+}
+
+@keyframes nav-border-in {
+  to {
+    --border-progress: 1;
+  }
+}
+
 .fixed-nav {
+  --nav-bg: transparent;
+  --nav-border-color: transparent;
   position: fixed;
   z-index: 2;
   inset-block-start: 0;
@@ -298,16 +345,13 @@ a {
   align-items: center;
   padding-block: 1.5rem;
   padding-inline: 1rem;
-  transition-timing-function: ease-in-out;
-  transition-duration: 0.3s;
-  transition-property: background-color, border;
   pointer-events: none;
-}
-
-.fixed-nav--active {
-  pointer-events: all;
-  border-block-end: 1px solid var(--color__text--tertiary);
-  background-color: var(--color__site--background);
+  border-block-end: 1px solid var(--nav-border-color);
+  background-color: var(--nav-bg);
+  animation-name: nav-reveal;
+  animation-fill-mode: both;
+  animation-timeline: --site-head;
+  animation-range: calc(100% - 3rem) 100%;
 }
 
 .fixed-nav__logo {
@@ -315,32 +359,33 @@ a {
 }
 
 .fixed-nav__logo g {
-  transition: transform 0.3s ease-in-out;
-  transform: translateX(-100%);
+  --logo-progress: 0;
+  transform: translateX(calc(100% * (var(--logo-progress) - 1)));
+  animation-name: nav-logo-in;
+  animation-fill-mode: both;
+  animation-timeline: --site-head;
+  animation-range: calc(100% - 3rem) 100%;
 }
 
 [dir="rtl"] .fixed-nav__logo g {
-  transform: translateX(100%);
+  transform: translateX(calc(100% * (1 - var(--logo-progress))));
 }
 
 .fixed-nav__border {
+  --border-progress: 0;
   inline-size: 100vh;
   min-inline-size: 60rem;
-  transition: opacity 0.2s ease-in-out;
-  opacity: 0;
+  opacity: var(--border-progress);
+  animation-name: nav-border-in;
+  animation-fill-mode: both;
+  animation-timeline: --site-head;
+  animation-range: calc(100% - 3rem) 100%;
 }
 
-.fixed-nav__logo g:nth-of-type(2) {
-  transition-delay: 0.05s;
-}
-
-.fixed-nav--active .fixed-nav__logo g {
-  transform: translateX(0);
-}
-
-.fixed-nav--active .fixed-nav__border {
-  transition-delay: 0;
-  opacity: 1;
+@supports not ((animation-timeline: scroll()) and (view-timeline: --site-head)) {
+  .fixed-nav {
+    display: none;
+  }
 }
 
 .items {
@@ -367,12 +412,20 @@ a {
   background-color: #e2e2e2;
 }
 
-.item__details {
+.item__summary {
   position: relative;
+  display: block;
+  cursor: pointer;
+  list-style: none;
+}
+
+.item__summary::-webkit-details-marker {
+  display: none;
 }
 
 .item__title {
   font-size: 1.5rem;
+  display: block;
 }
 
 .item__url {
@@ -412,7 +465,7 @@ a {
   transform: scaleX(1);
 }
 
-.item--active .item__toggle:before {
+.item__details[open] .item__toggle:before {
   content: 'Close ';
 }
 
@@ -422,7 +475,7 @@ a {
   transform: rotate(90deg);
 }
 
-.item--active .item__toggle svg {
+.item__details[open] .item__toggle svg {
   transform: rotate(0deg);
 }
 
@@ -573,15 +626,16 @@ a {
   .item-tray {
     position: absolute;
     display: none;
+    inline-size: calc(200% + 2rem);
     padding-block-start: 1rem;
     border-block-start: 2px solid var(--color__border);
   }
 
-  .item--active {
+  .item:has(.item__details[open]) {
     margin-block-end: 13rem;
   }
 
-  .item--active .item-tray {
+  .item__details[open] .item-tray {
     display: block;
   }
 
@@ -619,6 +673,10 @@ a {
 }
 
 @media (min-width: 63rem) {
+  .item-tray {
+    inline-size: calc(300% + 4rem);
+  }
+
   .item:nth-of-type(3n - 2) .item-tray {
     inset-inline-start: 0;
   }
@@ -645,5 +703,15 @@ a {
 
   .item-tray__inner {
     grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+.no-js {
+  .theme-toggle {
+    visibility: hidden;
+  }
+
+  .tag-filter {
+    display: none;
   }
 }

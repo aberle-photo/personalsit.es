@@ -1,4 +1,4 @@
-<li class="item" id="{{ item.data.url }}">
+<li class="item" id="{{ item.data.url }}" data-tags="{{ item.data.tags | join(',') }}">
     <a href="{{ item.data.url  }}">
         <p class="visually-hidden">View site</p>
         <img class="item__image" data-src="{% cdnUrl item.data.url %}" height="375" width="600" alt="" />

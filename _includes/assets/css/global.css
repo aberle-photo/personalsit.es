@@ -206,6 +206,55 @@ a {
   line-height: 1;
 }
 
+.tag-filter {
+  max-inline-size: 65rem;
+  margin-block-end: 3rem;
+  margin-inline: auto;
+  padding-inline: 1rem;
+}
+
+.tag-filter__hint {
+  color: var(--color__text--secondary);
+  font-size: .8rem;
+  margin-block-end: 1rem;
+}
+
+.tag-filter__pills {
+  display: flex;
+  gap: .5rem;
+  overflow-x: scroll;
+  scrollbar-width: thin;
+}
+
+.tag-filter__pill {
+  padding-inline: .5rem;
+  border: 1px solid var(--color__text--tertiary);
+  border-radius: 0.25rem;
+  background: transparent;
+  color: var(--color__text--secondary);
+  font-size: .8rem;
+  cursor: pointer;
+}
+
+.tag-filter__pill:is(:hover, :focus-visible) {
+  border-color: var(--color__text--secondary);
+  color: var(--color__text--primary);
+}
+
+.tag-filter__pill[aria-pressed='true'] {
+  background: var(--color__text--tertiary);
+  color: var(--color__site--background);
+
+  .tag-filter__count {
+    color: var(--color__text--background);
+  }
+}
+
+.tag-filter__count {
+  color: var(--color__text--tertiary);
+  font-size: .7rem;
+}
+
 .content {
   display: grid;
   grid-gap: 2rem;

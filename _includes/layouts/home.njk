@@ -27,6 +27,17 @@
             </nav>
         </article>
     </header>
+    <section class="tag-filter" aria-label="Filter sites by tag">
+        <h2 class="visually-hidden">Filter sites by tag</h2>
+        <p class="tag-filter__hint">Filter by selecting any number of tags. Sites matching any of them are shown.</p>
+        <div class="tag-filter__pills">
+            {% for tagItem in collections.allTags %}
+                <button class="tag-filter__pill" type="button" data-tag="{{ tagItem.tag }}" aria-pressed="false">
+                    {{ tagItem.tag }} <span class="tag-filter__count">{{ tagItem.count }}</span>
+                </button>
+            {% endfor %}
+        </div>
+    </section>
     <div class="fixed-nav">
         <a class="fixed-nav__logo" href="#">
             <svg aria-label="Go to top" viewBox="0 0 112 34">

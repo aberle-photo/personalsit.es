@@ -19,6 +19,17 @@ export default (eleventyConfig) => {
   eleventyConfig.addCollection('sitesAlphabetized', (collection) => {
     return collection.getFilteredByGlob('sites/*.md');
   });
+  eleventyConfig.addCollection('allTags', (collection) => {
+    const counts = new Map();
+    collection.getFilteredByGlob('sites/*.md').forEach((item) => {
+      (item.data.tags || []).forEach((tag) => {
+        counts.set(tag, (counts.get(tag) || 0) + 1);
+      });
+    });
+    return [...counts.entries()]
+      .map(([tag, count]) => ({ tag, count }))
+      .sort((a, b) => b.count - a.count || a.tag.localeCompare(b.tag));
+  });
   // Plugins
   eleventyConfig.addPlugin(rssPlugin);
 

@@ -1,6 +1,6 @@
 ---
 title: 'Zach Leatherman'
 url: 'https://www.zachleat.com'
-tags: ['developer', 'web fonts']
+tags: ['designer', 'developer']
 rss: 'https://www.zachleat.com/web/feed/'
 ---

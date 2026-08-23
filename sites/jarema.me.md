@@ -1,6 +1,6 @@
 ---
 title: 'Jarema'
 url: 'https://jarema.me'
-tags: ['blog', 'student', 'web dev', 'Astro', 'indieweb']
+tags: ['blog', 'developer', 'indieweb', 'ssg', 'student']
 rss: 'https://jarema.me/rss/en.xml'
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Tom Hallam'
 url: 'https://hallam.io'
-tags: ['software developer', 'drummer', 'nerd', 'cto']
+tags: ['developer', 'leadership', 'musician', 'tech']
 rss: 'https://hallam.io/posts/index.xml'
 ---

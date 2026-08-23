@@ -1,6 +1,6 @@
 ---
 title: 'thomasrigby.com'
 url: 'https://thomasrigby.com'
-tags: ['technologist']
+tags: ['tech']
 rss: 'https://thomasrigby.com/feed.xml'
 ---

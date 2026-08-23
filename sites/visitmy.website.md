@@ -1,6 +1,6 @@
 ---
 title: 'Harsh Browns'
 url: 'https://visitmy.website'
-tags: ['product manager', 'design', 'digital government']
+tags: ['designer', 'product manager']
 rss: 'https://visitmy.website/feed.xml'
 ---

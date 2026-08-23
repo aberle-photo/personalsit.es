@@ -1,6 +1,6 @@
 ---
 title: 'johnnyreilly'
 url: 'https://johnnyreilly.com'
-tags: ['engineer', 'web', 'typescript']
+tags: ['developer', 'typescript']
 rss: 'https://johnnyreilly.com/rss.xml'
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Kieran Klukas'
 url: 'https://dunkirk.sh'
-tags: ['nix', 'indieweb', 'programmer']
+tags: ['developer', 'indieweb', 'linux']
 rss: 'https://dunkirk.sh/rss.xml'
 ---

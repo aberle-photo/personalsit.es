@@ -1,6 +1,6 @@
 ---
 title: 'Stephanie Eckles'
 url: 'https://thinkdobecreate.com'
-tags: ['CSS', 'HTML', 'Eleventy', 'Design Systems', 'a11y', 'speaker', 'writer']
+tags: ['accessibility', 'css', 'designer', 'html', 'speaker', 'ssg', 'writer']
 rss: 'https://thinkdobecreate.com/feed/'
 ---

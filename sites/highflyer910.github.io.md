@@ -1,5 +1,5 @@
 ---
 title: "Teona Mushambadze"
 url: 'https://highflyer910.github.io'
-tags: ['Front-End Engineer', 'Graphic Designer', 'Blogger', 'VueJS', 'Python', 'Jamstack', 'A11y']
+tags: ['accessibility', 'designer', 'developer', 'python', 'ssg', 'vue', 'writer']
 ---

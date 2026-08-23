@@ -1,6 +1,6 @@
 ---
 title: 'Declan Byrd'
 url: 'https://declanbyrd.co.uk'
-tags: ['front-end developer', '11ty']
+tags: ['developer', 'ssg']
 rss: 'https://declanbyrd.co.uk/journal/feed.xml'
 ---

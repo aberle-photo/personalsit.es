@@ -1,13 +1,6 @@
 ---
 title: 'Ronnie Brown'
 url: 'https://ronnie.fyi'
-tags:
-    [
-        'web designer',
-        'web developer',
-        'tech manager',
-        'bass player',
-        'illustrator',
-    ]
+tags: ['designer', 'developer', 'illustrator', 'leadership', 'musician']
 rss: 'https://ronnie.fyi/rss'
 ---

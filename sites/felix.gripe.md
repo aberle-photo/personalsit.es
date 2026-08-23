@@ -1,6 +1,6 @@
 ---
 title: 'felix.gripe'
 url: 'https://felix.gripe'
-tags: ['web designer', 'front-end developer']
+tags: ['designer', 'developer']
 rss: 'https://felix.gripe/rss.xml'
 ---

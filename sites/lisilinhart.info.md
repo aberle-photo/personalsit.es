@@ -1,6 +1,6 @@
 ---
 title: 'Lisi Linhart'
 url: 'https://lisilinhart.info'
-tags: ['ux engineer', 'web development', 'design', 'web animation']
+tags: ['designer', 'developer']
 rss: 'https://lisilinhart.info/feed.xml'
 ---

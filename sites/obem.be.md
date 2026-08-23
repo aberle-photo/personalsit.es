@@ -1,6 +1,6 @@
 ---
 title: 'Opeyemi Obembe'
 url: 'https://obem.be/opeyemi'
-tags: ['technology', 'software', 'life']
+tags: ['developer', 'tech']
 rss: 'https://obem.be/feed.xml'
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'David Rhoden'
 url: 'https://davidrhoden.com'
-tags: ['illustrator', 'painter', 'musician', 'web developer']
+tags: ['artist', 'developer', 'illustrator', 'musician']
 rss: 'https://davidrhoden.com/feed.xml'
 ---

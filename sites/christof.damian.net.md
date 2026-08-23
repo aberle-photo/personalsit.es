@@ -1,6 +1,6 @@
 ---
 title: 'Christof Damian'
 url: 'https://christof.damian.net/'
-tags: ['manager', 'developer', 'cyclist', 'blog']
+tags: ['blog', 'developer', 'leadership', 'sports']
 rss: 'https://christof.damian.net/index.xml'
 ---

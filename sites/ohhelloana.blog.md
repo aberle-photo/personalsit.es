@@ -1,6 +1,6 @@
 ---
 title: 'Oh, hello Ana!'
 url: 'https://ohhelloana.blog'
-tags: ['Front-End Developer', 'Travel', 'Indieweb', 'Personal']
+tags: ['blog', 'developer', 'indieweb', 'travel']
 rss: 'https://ohhelloana.blog/feed.xml'
 ---

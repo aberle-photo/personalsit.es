@@ -1,6 +1,6 @@
 ---
 title: "joelchrono.xyz"
 url: "https://joelchrono.xyz"
-tags: ["linux", "writing", "gaming", "tech", "foss"]
+tags: ['games', 'linux', 'open source', 'tech', 'writer']
 rss: "https://joelchrono.xyz/feed.xml"
 ---

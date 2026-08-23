@@ -1,6 +1,6 @@
 ---
 title: 'Derek Cutting'
 url: 'https://dcutting.com'
-tags: ['artist', 'community', 'art', 'queer', 'music', 'business', 'customer success']
+tags: ['artist', 'founder', 'lgbtq', 'musician']
 rss: 'https://dcutting.com/writing/feed.xml'
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Alec Lomas'
 url: 'https://lowmess.com'
-tags: ['Frontend Developer', 'Designer']
+tags: ['designer', 'developer']
 rss: 'https://lowmess.com/rss.xml'
 ---

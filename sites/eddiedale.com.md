@@ -1,6 +1,6 @@
 ---
 title: 'Eddie Dale'
 url: 'https://www.eddiedale.com'
-tags: ['generalist', 'minimalist', 'designer', 'developer', 'writer', 'personal']
+tags: ['blog', 'designer', 'developer', 'tech', 'writer']
 rss: 'https://www.eddiedale.com/blog-feed'
 ---

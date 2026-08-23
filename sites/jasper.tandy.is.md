@@ -1,6 +1,6 @@
 ---
 title: 'Jasper is'
 url: 'https://jasper.tandy.is'
-tags: ['photography', 'blog', 'microblog']
+tags: ['blog', 'photographer']
 rss: 'https://jasper.tandy.is/syndicated'
 ---

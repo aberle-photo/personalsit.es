@@ -1,6 +1,6 @@
 ---
 title: 'Duncan Mackenzie'
 url: 'https://www.duncanmackenzie.net'
-tags: ['developer', 'performance', 'engineering management']
+tags: ['developer', 'leadership']
 rss: 'https://www.duncanmackenzie.net/blog/index.xml'
 ---

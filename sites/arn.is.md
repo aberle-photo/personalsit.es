@@ -1,6 +1,6 @@
 ---
 title: 'Angelos Arnis'
 url: 'https://arn.is/'
-tags: ['strategic designer', 'community advocate', 'planet conscious designer']
+tags: ['designer', 'speaker', 'sustainability']
 rss: 'https://arn.is/feed'
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Miloš Švaňa'
 url: 'https://svana.name/'
-tags: ['AI', 'Machine Learning', 'Developer', 'Linux', 'Python', 'Reading', 'Books', 'Decision Making', 'AI Safety', 'Ethics']
+tags: ['ai', 'books', 'developer', 'linux', 'philosophy', 'python']
 rss: 'https://svana.name/feed/'
 ---

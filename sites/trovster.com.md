@@ -1,6 +1,6 @@
 ---
 title: 'Trevor Morris'
 url: 'https://www.trovster.com'
-tags: ['trovster', 'movies', 'developer', 'php', 'laravel']
+tags: ['developer', 'film', 'php']
 rss: 'https://www.trovster.com/blog/posts.xml'
 ---

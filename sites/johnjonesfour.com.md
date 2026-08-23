@@ -1,6 +1,6 @@
 ---
 title: 'JohnJonesFour.com'
 url: 'https://johnjonesfour.com/'
-tags: ['maker', 'film photographer', 'electronics hacker', 'developer', 'DIYer']
+tags: ['developer', 'maker', 'photographer']
 rss: 'https://johnjonesfour.com/feed/feed.xml'
 ---

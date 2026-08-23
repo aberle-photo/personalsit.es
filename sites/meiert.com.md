@@ -1,6 +1,6 @@
 ---
 title: 'Jens Oliver Meiert'
 url: 'https://meiert.com'
-tags: ['engineering lead', 'author']
+tags: ['leadership', 'writer']
 rss: 'https://meiert.com/feed/'
 ---

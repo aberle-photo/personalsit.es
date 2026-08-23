@@ -1,6 +1,6 @@
 ---
 title: 'Erik Vorhes'
 url: 'https://erikvorhes.com'
-tags: ['user interface engineer', 'software engineer', 'writer', 'baker', 'former medievalist']
+tags: ['designer', 'developer', 'food', 'writer']
 rss: 'https://erikvorhes.com/feed.rss.xml'
 ---

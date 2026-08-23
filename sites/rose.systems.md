@@ -1,6 +1,6 @@
 ---
 title: 'Vivian Rose'
 url: 'https://rose.systems'
-tags: ['bug holder', 'gamedev']
+tags: ['games']
 rss: 'https://rose.systems/feed.xml'
 ---

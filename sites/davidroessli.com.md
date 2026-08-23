@@ -1,6 +1,6 @@
 ---
 title: 'David Roessli'
 url: 'https://davidroessli.com'
-tags: ['web designer']
+tags: ['designer']
 rss: 'https://davidroessli.com/rss/'
 ---

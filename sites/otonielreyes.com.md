@@ -1,6 +1,6 @@
 ---
 title: 'La Bitácora de Otoniel Reyes'
 url: 'https://otonielreyes.com'
-tags: ['software development', 'C programming', 'open source', 'free software', 'activism']
+tags: ['developer', 'open source', 'politics']
 rss: 'https://otonielreyes.com/feed/'
 ---

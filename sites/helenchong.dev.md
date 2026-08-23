@@ -1,6 +1,6 @@
 ---
 title: 'Helen Chong'
 url: 'https://helenchong.dev'
-tags: ['web development', 'code']
+tags: ['developer']
 rss: 'https://helenchong.dev/blog/feed.xml'
 ---

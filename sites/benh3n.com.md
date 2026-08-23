@@ -1,6 +1,6 @@
 ---
 title: 'Bennett Pohlmann'
 url: 'https://benh3n.com'
-tags: ['student', 'developer', 'rust', 'blog']
+tags: ['blog', 'developer', 'rust', 'student']
 rss: 'https://benh3n.com/rss.xml'
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Rimenes Ribeiro'
 url: 'https://rimenesribeiro.com'
-tags: ['Software Developer', 'Indie Hacker']
+tags: ['developer', 'founder']
 rss: 'https://rimenesribeiro.com/feed.xml'
 ---

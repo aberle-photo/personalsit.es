@@ -1,5 +1,5 @@
 ---
 title: 'Jitendra Nirnejak'
 url: 'https://nirnejak.com'
-tags: ['developer', 'designer']
+tags: ['designer', 'developer']
 ---

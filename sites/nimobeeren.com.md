@@ -1,5 +1,5 @@
 ---
 title: 'Nimo Beeren'
 url: 'https://nimobeeren.com'
-tags: ['ai engineer', 'projects', 'blog']
+tags: ['ai', 'blog', 'developer', 'portfolio']
 ---

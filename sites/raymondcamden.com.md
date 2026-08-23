@@ -1,6 +1,6 @@
 ---
 title: 'Raymond Camden'
 url: 'https://www.raymondcamden.com'
-tags: ['web developer', 'writer','developer relations']
+tags: ['developer', 'writer']
 rss: 'https://www.raymondcamden.com/feed.xml'
 ---

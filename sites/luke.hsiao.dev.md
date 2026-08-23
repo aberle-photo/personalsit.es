@@ -1,6 +1,6 @@
 ---
 title: 'Luke Hsiao'
 url: 'https://luke.hsiao.dev'
-tags: ['engineer', 'blogger', 'tech', 'foss', 'developer']
+tags: ['developer', 'open source', 'tech', 'writer']
 rss: 'https://luke.hsiao.dev/atom.xml'
 ---

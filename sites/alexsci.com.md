@@ -1,6 +1,6 @@
 ---
 title: 'alexsci.com'
 url: 'https://alexsci.com'
-tags: [ 'developer', 'blog', 'freelancer', 'web' ]
+tags: ['blog', 'developer', 'freelancer']
 rss: 'https://alexsci.com/blog/rss.xml'
 ---

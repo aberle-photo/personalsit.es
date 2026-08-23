@@ -1,6 +1,6 @@
 ---
 title: 'Eric Eggert'
 url: 'https://yatil.net'
-tags: ['designer', 'developer', 'accessibility', 'web', 'HTML', 'CSS']
+tags: ['accessibility', 'css', 'designer', 'developer', 'html']
 rss: 'https://yatil.net/feed'
 ---

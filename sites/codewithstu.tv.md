@@ -1,6 +1,6 @@
 ---
 title: 'CodeWithStu'
 url: 'https://codewithstu.tv'
-tags: ['software engineer', '.NET', 'AWS', 'DevOps']
+tags: ['developer']
 rss: 'https://codewithstu.tv/thoughts/feed.xml'
 ---

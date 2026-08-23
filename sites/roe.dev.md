@@ -1,6 +1,6 @@
 ---
 title: 'Daniel Roe'
 url: 'https://roe.dev'
-tags: ['developer', 'nuxt', 'vue', 'typescript']
+tags: ['developer', 'typescript', 'vue']
 rss: 'https://roe.dev/rss.xml'
 ---

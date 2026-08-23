@@ -1,6 +1,6 @@
 ---
 title: 'Alan Shortis'
 url: 'https://short.is'
-tags: ['design', 'web', 'photography']
+tags: ['designer', 'developer', 'photographer']
 rss: 'https://short.is/writing.xml'
 ---

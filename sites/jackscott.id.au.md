@@ -1,6 +1,6 @@
 ---
 title: "Jack Scott's Blog"
 url: 'https://jackscott.id.au'
-tags: ['it consultant']
+tags: ['freelancer']
 rss: 'https://jackscott.id.au/feed/'
 ---

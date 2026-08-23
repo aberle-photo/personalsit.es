@@ -1,6 +1,6 @@
 ---
 title: 'Gears (Surya Rose)'
 url: 'https://gearsco.de/'
-tags: ['developer', 'gleam', 'open source', 'blog']
+tags: ['blog', 'developer', 'open source']
 rss: 'https://gearsco.de/blog.xml'
 ---

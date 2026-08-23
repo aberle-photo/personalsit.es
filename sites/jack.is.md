@@ -1,6 +1,6 @@
 ---
 title: 'Jack Platten'
 url: 'https://jack.is'
-tags: ['developer', 'personal']
+tags: ['blog', 'developer']
 rss: 'https://jack.is/rss.xml'
 ---

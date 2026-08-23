@@ -1,6 +1,6 @@
 ---
 title: "Paul Jacobson's links"
 url: 'https://paulj.me'
-tags: ['enthusiast', 'blogger', 'wordpress']
+tags: ['tech', 'wordpress', 'writer']
 rss: 'https://paulj.me/feed/'
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Matt Keeter'
 url: 'https://mattkeeter.com'
-tags: ['engineer', 'hardware', 'electronics', 'graphics', 'rust']
+tags: ['designer', 'developer', 'maker', 'rust']
 rss: 'https://mattkeeter.com/atom.xml'
 ---

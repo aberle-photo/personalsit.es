@@ -1,6 +1,6 @@
 ---
 title: 'Coriander in Pho'
 url: 'https://corianderinpho.com'
-tags: ['blogger', 'daily life', 'personal']
+tags: ['blog', 'writer']
 rss: 'https://corianderinpho.com/feed'
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Trond Jakob Sjøvang'
 url: 'https://trond.sjovang.no'
-tags: ['Cloud', 'IaC', 'Microsoft MVP']
+tags: ['developer']
 rss: 'https://trond.sjovang.no/feed.xml'
 ---

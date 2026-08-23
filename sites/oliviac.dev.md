@@ -1,6 +1,6 @@
 ---
 title: 'Olivia Coumans'
 url: 'https://oliviac.dev/'
-tags: ['Front-end developer', 'Web developer', 'Blogger']
+tags: ['developer', 'writer']
 rss: 'https://oliviac.dev/feed.xml'
 ---

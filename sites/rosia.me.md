@@ -1,6 +1,6 @@
 ---
 title: 'Rosia Evans'
 url: 'https://rosia.me'
-tags: ['developer', 'environment', 'permacomputing', 'personal', 'blog']
+tags: ['blog', 'developer', 'sustainability']
 rss: 'https:/rosia.me/feed.xml'
 ---

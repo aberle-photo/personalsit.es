@@ -1,6 +1,6 @@
 ---
 title: "Matt Zimmerman"
 url: "https://digital52.org"
-tags: ["web designer", "developer", "webcomics"]
+tags: ['comics', 'designer', 'developer']
 rss: "https://digital52.org/rss.xml"
 ---

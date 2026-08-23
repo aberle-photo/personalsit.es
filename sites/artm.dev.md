@@ -1,6 +1,6 @@
 ---
 title: 'Artem Riasnianskyi'
 url: 'https://artm.dev'
-tags: ['web developer', 'frontend']
+tags: ['developer']
 rss: 'https://artm.dev/feed.xml'
 ---

@@ -1,5 +1,5 @@
 ---
 title: 'Ugly Duck'
 url: 'https://uglyduck.ca'
-tags: ['product designer', 'developer', 'writer']
+tags: ['designer', 'developer', 'writer']
 ---

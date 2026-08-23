@@ -1,6 +1,6 @@
 ---
 title: 'Caleb Olojo'
 url: 'https://meje.dev'
-tags: ['tinkerer', 'engineer', 'occasional writer']
+tags: ['developer', 'maker', 'writer']
 rss: 'https://meje.dev/feed.xml'
 ---

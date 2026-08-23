@@ -1,6 +1,6 @@
 ---
 title: 'Lara Aigmüller'
 url: 'https://lara-aigmueller.at'
-tags: ['web frontend developer', 'ux designer', 'musician', 'blog']
+tags: ['blog', 'designer', 'developer', 'musician']
 rss: 'https://lara-aigmueller.at/rss.xml'
 ---

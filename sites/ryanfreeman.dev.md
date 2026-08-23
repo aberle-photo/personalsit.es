@@ -1,6 +1,6 @@
 ---
 title: 'Ryan Freeman'
 url: 'https://ryanfreeman.dev'
-tags: ['React', 'Java', 'Node']
+tags: ['developer', 'javascript', 'react']
 rss: 'https://ryanfreeman.dev/feed.xml'
 ---

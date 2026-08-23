@@ -1,6 +1,6 @@
 ---
 title: "Christopher Besch"
 url: "https://chris-besch.com"
-tags: ["electronics", "writer", "photographer", "programmer"]
+tags: ['developer', 'maker', 'photographer', 'writer']
 rss: "https://chris-besch.com/rss.xml"
 ---

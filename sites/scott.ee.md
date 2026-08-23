@@ -1,6 +1,6 @@
 ---
 title: 'scott.ee'
 url: 'https://scott.ee'
-tags: ['product designer', 'developer', 'freelance', 'css', '11ty', 'creative technology']
+tags: ['artist', 'css', 'designer', 'developer', 'freelancer', 'ssg']
 rss: 'https://scott.ee/feed/feed.xml'
 ---

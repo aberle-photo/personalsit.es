@@ -1,6 +1,6 @@
 ---
 title: 'andrés ignacio torres'
 url: 'https://aitorres.com'
-tags: ['software developer', 'writer', 'open source', 'backend']
+tags: ['developer', 'open source', 'writer']
 rss: 'https://aitorres.com/feed/feed.xml'
 ---

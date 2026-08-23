@@ -1,6 +1,6 @@
 ---
 title: "Stacktracer's Dev Shrine!"  
 url: 'https://devshrine.net/'
-tags: ['coding', 'writing', 'indieweb', 'AI']
+tags: ['ai', 'developer', 'indieweb', 'writer']
 rss: 'https://devshrine.net/blog/atom.xml'
 ---

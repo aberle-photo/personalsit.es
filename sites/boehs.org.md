@@ -1,6 +1,6 @@
 ---
 title: 'Evan Boehs'
 url: 'https://boehs.org'
-tags: ['developer', 'maker', 'writer', 'blog', 'indieweb', 'fediverse', '11ty']
+tags: ['blog', 'developer', 'indieweb', 'maker', 'ssg', 'writer']
 rss: 'https://boehs.org/in/blog.xml'
 ---

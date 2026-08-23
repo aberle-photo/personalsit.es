@@ -1,6 +1,6 @@
 ---
 title: 'lucasjordan.dev'
 url: 'https://lucasjordan.dev/'
-tags: ['Frontend developer', 'accessibility']
+tags: ['accessibility', 'developer']
 rss: ''
 ---

@@ -1,6 +1,6 @@
 ---
 title: "mkiesel.ch"
 url: "https://mkiesel.ch"
-tags: ["infosec","cybersec","it-security","hacking"]
+tags: ['security']
 rss: "https://mkiesel.ch/feed.xml"
 ---

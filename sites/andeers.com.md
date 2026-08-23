@@ -1,6 +1,6 @@
 ---
 title: 'andeers.com'
 url: 'https://andeers.com'
-tags: ['developer', 'front-end developer']
+tags: ['developer']
 rss: 'https://andeers.com/feed.xml'
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Declarative, by Kush S.'
 url: 'https://skushagra.com/'
-tags: ['Software', 'Low Level Systems Developer', 'Cybersecurity']
+tags: ['developer', 'security']
 rss: 'https://skushagra.com/index.xml'
 ---

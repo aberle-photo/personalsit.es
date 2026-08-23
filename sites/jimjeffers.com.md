@@ -1,6 +1,6 @@
 ---
 title: 'Jim Jeffers'
 url: 'https://www.jimjeffers.com'
-tags: ['leadership', 'software', 'ai', 'business', 'writing']
+tags: ['ai', 'developer', 'founder', 'leadership', 'writer']
 rss: 'https://www.jimjeffers.com/rss.xml'
 ---

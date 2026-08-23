@@ -1,6 +1,6 @@
 ---
 title: 'Bastian Greshake Tzovaras'
 url: 'https://tzovar.as'
-tags: ['commons', 'research', 'open source', 'open science', 'openstreetmap', 'photography']
+tags: ['data', 'open source', 'photographer', 'researcher']
 rss: 'https://tzovar.as/feed.xml'
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Simon Duff'
 url: 'https://simonduff.net'
-tags: ['developer', 'researcher', 'Big Data', 'AI', 'infosec','gamedev']
+tags: ['ai', 'data', 'developer', 'games', 'researcher', 'security']
 rss: 'https://simonduff.net/feed.xml'
 ---

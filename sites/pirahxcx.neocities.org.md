@@ -1,6 +1,6 @@
 ---
 title: 'Pira HxCx'
 url: 'https://pirahxcx.neocities.org/'
-tags: ['punk', 'blog', 'pets']
+tags: ['blog', 'musician']
 rss: 'https://pirahxcx.neocities.org/atom.xml'
 ---

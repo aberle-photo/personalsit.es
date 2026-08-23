@@ -1,6 +1,6 @@
 ---
 title: 'Ronalds Vilciņš'
 url: 'https://ronaldsvilcins.com'
-tags: ['web developer']
+tags: ['developer']
 rss: 'https://ronaldsvilcins.com/atom.xml'
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Rado's blog: tourist wannabe"
 url: 'https://rado.bg'
-tags: ['photographer', 'writer', 'web developer']
+tags: ['developer', 'photographer', 'writer']
 rss: 'https://rado.bg/feed/'
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Chris Collins'
 url: 'https://www.chrissy.dev'
-tags: ['UX Designer', 'UX Engineer', 'Photographer', 'Hiker', 'Scottish']
+tags: ['designer', 'photographer', 'sports']
 rss: 'https://www.chrissy.dev/feeds/all.xml'
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Dillon Shook'
 url: 'https://dillonshook.com'
-tags: ['developer', 'full stack', 'web developer', 'game developer', 'photography','Unity 3D']
+tags: ['developer', 'games', 'photographer']
 rss: 'https://dillonshook.com/rss.xml'
 ---

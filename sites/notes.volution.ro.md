@@ -1,6 +1,6 @@
 ---
 title: 'Volution Notes'
 url: 'https://notes.volution.ro'
-tags: ['technology', 'software', 'development']
+tags: ['developer', 'tech']
 rss: 'https://notes.volution.ro/index.xml'
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Zane Taylor'
 url: 'https://zane.im'
-tags: ['ui', 'ux', 'js', 'css', 'html', 'php', 'web', 'developer', 'engineer', 'a11y', 'gis']
+tags: ['accessibility', 'css', 'data', 'designer', 'developer', 'html', 'javascript', 'php']
 rss: 'https://zane.im/rss.xml'
 ---

@@ -1,6 +1,6 @@
 ---
 title: "monotux.tech"
 url: "https://www.monotux.tech"
-tags: ["nerd", "infrastructure", "kubernetes", "nix", "emacs", "devops"]
+tags: ['developer', 'emacs', 'linux', 'tech']
 rss: "https://www.monotux.tech/index.xml"
 ---

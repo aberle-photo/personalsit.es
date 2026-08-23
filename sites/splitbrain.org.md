@@ -1,6 +1,6 @@
 ---
 title: 'splitbrain.org'
 url: 'https://www.splitbrain.org'
-tags: ['Blogger', 'Maker', 'Travel', 'PHP', 'Geek', 'Life']
+tags: ['maker', 'php', 'tech', 'travel', 'writer']
 rss: 'https://www.splitbrain.org/feed/blog'
 ---

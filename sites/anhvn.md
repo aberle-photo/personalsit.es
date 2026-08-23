@@ -1,6 +1,6 @@
 ---
 title: 'anhvn'
 url: 'https://anhvn.com'
-tags: ['web design', 'illustration', 'indieweb', 'art', 'media log', 'digital garden']
+tags: ['artist', 'blog', 'designer', 'digital garden', 'illustrator', 'indieweb']
 rss: 'https://anhvn.com/feed.xml'
 ---

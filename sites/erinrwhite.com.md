@@ -1,6 +1,6 @@
 ---
 title: 'Erin White'
 url: 'https://erinrwhite.com'
-tags: ['web designer', 'ux', 'bikes', 'rhode island']
+tags: ['designer', 'sports']
 rss: 'https://erinrwhite.com/feed.xml'
 ---

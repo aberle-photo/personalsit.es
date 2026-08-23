@@ -1,6 +1,6 @@
 ---
 title: 'Radek Kozieł'
 url: 'https://rkoziel.com'
-tags: ['software designer', 'software developer']
+tags: ['developer']
 rss: 'https://rkoziel.com/thoughts/index.xml'
 ---

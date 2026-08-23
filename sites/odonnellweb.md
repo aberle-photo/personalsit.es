@@ -1,6 +1,6 @@
 ---
 title: "Chris O'Donnell"
 url: 'https://odonnellweb.com'
-tags: ['camping', 'hiking', 'books', 'travel', 'music', 'birds']
+tags: ['books', 'musician', 'sports', 'travel']
 rss: 'https://odonnellweb.com/pelican/feeds/all.atom.xml'
 ---

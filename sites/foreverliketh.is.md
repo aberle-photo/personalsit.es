@@ -1,6 +1,6 @@
 ---
 title: 'foreverliketh.is'
 url: 'https://foreverliketh.is'
-tags: ['life', 'psychology', 'journal']
+tags: ['blog', 'science']
 rss: 'https://foreverliketh.is/blog/index.xml'
 ---

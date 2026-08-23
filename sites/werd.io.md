@@ -1,6 +1,6 @@
 ---
 title: 'Ben Werdmuller'
 url: 'https://werd.io'
-tags: ['founder', 'ethical tech', 'design thinking', 'developer', 'writer', 'indieweb']
+tags: ['designer', 'developer', 'founder', 'indieweb', 'writer']
 rss: 'https://werd.io/rss/'
 ---

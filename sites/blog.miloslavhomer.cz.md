@@ -1,6 +1,6 @@
 ---
 title: 'Miloslav Homer'
 url: 'https://blog.miloslavhomer.cz'
-tags: ['security', 'programming', 'hacking']
+tags: ['developer', 'security']
 rss: 'https://blog.miloslavhomer.cz/rss'
 ---

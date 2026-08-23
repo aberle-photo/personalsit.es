@@ -1,6 +1,6 @@
 ---
 title: 't-amadan industries'
 url: 'https://tamadanick.neocities.org/'
-tags: ['blogger', 'fool']
+tags: ['writer']
 rss: 'https://tamadanick.neocities.org/feed.xml'
 ---

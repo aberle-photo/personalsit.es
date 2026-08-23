@@ -1,6 +1,6 @@
 ---
 title: 'Takafumi Miyanaga'
 url: 'https://orangekame3.dev'
-tags: ['software engineer', 'quantum computing', 'developer']
+tags: ['developer', 'science']
 rss: 'https://orangekame3.dev/feed.xml'
 ---

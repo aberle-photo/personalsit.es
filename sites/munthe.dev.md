@@ -1,5 +1,5 @@
 ---
 title: 'Efraim Munthe'
 url: 'https://munthe.dev/en/'
-tags: ['student', 'developer']
+tags: ['developer', 'student']
 ---

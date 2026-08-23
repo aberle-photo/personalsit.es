@@ -1,6 +1,6 @@
 ---
 title: 'Antarctica Starts Here.'
 url: 'https://drwho.virtadpt.net'
-tags: ['cyberpunk', 'hacking', 'python', 'locksport', 'travel', 'transhumanism', 'linux', 'infosec']
+tags: ['linux', 'python', 'retro computing', 'security', 'travel']
 rss: 'https://drwho.virtadpt.net/rss/feed.xml'
 ---

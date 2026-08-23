@@ -1,6 +1,6 @@
 ---
 title: 'Sara Joy'
 url: 'https://sarajoy.dev'
-tags: ['techy generalist', 'front-end web developer']
+tags: ['developer', 'tech']
 rss: 'https://sarajoy.dev/rss.xml'
 ---

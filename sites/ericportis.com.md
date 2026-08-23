@@ -1,5 +1,5 @@
 ---
 title: 'ericportis.com'
 url: 'https://ericportis.com'
-tags: ['photographer', 'developer']
+tags: ['developer', 'photographer']
 ---

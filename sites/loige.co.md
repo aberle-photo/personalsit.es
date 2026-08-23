@@ -1,6 +1,6 @@
 ---
 title: 'Luciano Mammino'
 url: 'https://loige.co'
-tags: ['fullstack', 'developer', 'cloud architect']
+tags: ['developer']
 rss: 'https://loige.co/rss.xml'
 ---

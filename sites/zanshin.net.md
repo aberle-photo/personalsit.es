@@ -1,6 +1,6 @@
 ---
 title: 'Zanshin.net'
 url: 'https://zanshin.net'
-tags: ['programmer', 'musician', 'sysadmin', 'reader', 'cellist', 'code prole', 'technologist']
+tags: ['books', 'developer', 'linux', 'musician', 'tech']
 rss: 'https://zanshin.net/atom.xml'
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Karl Wilcox'
 url: 'https://karlwilcox.com'
-tags: ['reviews', 'projects']
+tags: ['portfolio']
 rss: 'https://karlwilcox.com/feed.xml'
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Ultra Vulture'
 url: 'https://www.ultravulture.xyz'
-tags: ['art', 'design', 'illustration']
+tags: ['artist', 'designer', 'illustrator']
 rss: 'https://www.ultravulture.xyz/feed/'
 ---

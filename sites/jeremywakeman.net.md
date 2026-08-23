@@ -1,6 +1,6 @@
 ---
 title: 'Jeremy Wakeman'
 url: 'https://jeremywakeman.net'
-tags: ['homepage', 'project information', 'interests']
+tags: ['blog']
 rss: 'https://jeremywakeman.net/atom.xml'
 ---

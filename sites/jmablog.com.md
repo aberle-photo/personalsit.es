@@ -1,6 +1,6 @@
 ---
 title: 'jmablog'
 url: 'https://jmablog.com'
-tags: ['blog', 'data science', 'r programming', 'sports science', 'parkour']
+tags: ['blog', 'data', 'sports']
 rss: 'https://jmablog.com/index.xml'
 ---

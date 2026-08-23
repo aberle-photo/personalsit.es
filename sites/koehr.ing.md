@@ -1,6 +1,6 @@
 ---
 title: '~koehr>'
 url: 'https://koehr.ing'
-tags: ['web developer', 'ttrpg', 'tech']
+tags: ['developer', 'games', 'tech']
 rss: 'https://koehr.ing/rss.xml'
 ---

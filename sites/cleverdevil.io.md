@@ -1,6 +1,6 @@
 ---
 title: 'Jonathan LaCour'
 url: 'https://cleverdevil.io'
-tags: ['indieweb', 'tech', 'parent', 'photos', 'los angeles', 'developer', 'food']
+tags: ['developer', 'food', 'indieweb', 'parenting', 'photographer', 'tech']
 rss: 'https://cleverdevil.io/?_t=rss'
 ---

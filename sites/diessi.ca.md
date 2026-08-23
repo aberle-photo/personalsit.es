@@ -1,6 +1,6 @@
 ---
 title: 'diessi.ca'
 url: 'https://diessi.ca'
-tags: ['computers', 'design', 'random', 'art', 'javascript']
+tags: ['artist', 'designer', 'javascript', 'tech']
 rss: 'https://diessi.ca/atom.xml'
 ---

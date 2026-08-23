@@ -1,6 +1,6 @@
 ---
 title: 'Matthew Muñoz'
 url: 'https://knucklebones.rip'
-tags: ['poetry']
+tags: ['books']
 rss: 'https://knucklebones.rip/feed.xml'
 ---

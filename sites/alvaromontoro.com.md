@@ -1,6 +1,6 @@
 ---
 title: 'Alvaro Montoro'
 url: 'https://alvaromontoro.com'
-tags: ['web development', 'css', 'html', 'css art', 'developer']
+tags: ['css', 'developer', 'html']
 rss: 'https://alvaromontoro.com/feed.rss'
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Owen Lacey'
 url: 'https://owenlacey.dev'
-tags: ['developer', 'blogger', 'mathematician']
+tags: ['developer', 'science', 'writer']
 rss: 'https://blog.owenlacey.dev/rss.xml'
 ---

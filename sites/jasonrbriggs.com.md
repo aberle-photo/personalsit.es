@@ -1,6 +1,6 @@
 ---
 title: 'Jason R Briggs'
 url: 'https://jasonrbriggs.com'
-tags: ['developer', 'author']
+tags: ['developer', 'writer']
 rss: 'https://jasonrbriggs.com/rss/'
 ---

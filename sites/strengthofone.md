@@ -1,6 +1,6 @@
 ---
 title: 'Keith Hart'
 url: 'https://strengthofone.com/'
-tags: ['art director', 'designer', 'developer', 'musician', 'photographer', 'artist']
+tags: ['artist', 'designer', 'developer', 'musician', 'photographer']
 rss: 'http://blog.strengthofone.com/feed/'
 ---

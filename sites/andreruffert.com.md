@@ -1,7 +1,7 @@
 ---
 title: 'André Ruffert'
 url: 'https://andreruffert.com'
-tags: ['web developer']
+tags: ['developer']
 rss: https://andreruffert.com/weblog/rss.xml
 ---
 

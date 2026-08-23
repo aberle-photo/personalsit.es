@@ -1,6 +1,6 @@
 ---
 title: 'Ville Kokkomäki'
 url: 'https://kokkomaki.com'
-tags: ['bitcoin', 'writer', 'peace', 'meditation', 'psychology']
+tags: ['mental health', 'politics', 'science', 'tech', 'writer']
 rss: 'https://kokkomaki.com/index.xml'
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Lex Feathers'
 url: 'https://lexfeathers.ca'
-tags: ['web designer', 'composer']
+tags: ['designer', 'musician']
 rss: 'https://lexfeathers.ca/feed.rss'
 ---

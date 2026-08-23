@@ -1,6 +1,6 @@
 ---
 title: 'PcHC'
 url: 'https://pxhc.neocities.org/'
-tags: ['cyberpunk', 'ascii art', 'microblog']
+tags: ['blog', 'retro computing']
 rss: 'https://pxhc.neocities.org/atom.xml'
 ---

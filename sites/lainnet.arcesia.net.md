@@ -1,6 +1,6 @@
 ---
 title: 'LainNet'
 url: 'https://lainnet.arcesia.net'
-tags: ['vintage', 'retro', 'windows nt', 'reverse engineering']
+tags: ['retro computing', 'security']
 rss: 'https://lainnet.arcesia.net/rss.xml'
 ---

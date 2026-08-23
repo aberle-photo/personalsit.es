@@ -1,6 +1,6 @@
 ---
 title: 'Nathan Knowler'
 url: 'https://knowler.dev'
-tags: ['developer', 'designer']
+tags: ['designer', 'developer']
 rss: 'https://knowler.dev/feed.xml'
 ---

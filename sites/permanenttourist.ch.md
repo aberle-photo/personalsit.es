@@ -1,6 +1,6 @@
 ---
 title: 'Permanent Tourist'
 url: 'https://permanenttourist.ch'
-tags: ['travel','photography','video','writer','blog']
+tags: ['blog', 'film', 'photographer', 'travel', 'writer']
 rss: 'https://permanenttourist.ch/feed'
 ---

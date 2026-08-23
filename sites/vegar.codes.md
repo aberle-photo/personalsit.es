@@ -1,6 +1,6 @@
 ---
 title: 'Vegar Norman'
 url: 'https://vegar.codes/'
-tags: ['web designer', 'teacher', 'norwegian']
+tags: ['designer', 'educator']
 rss: 'https://vegar.codes/mikro/feed/feed.xml'
 ---

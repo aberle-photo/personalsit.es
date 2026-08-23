@@ -1,6 +1,6 @@
 ---
 title: 'Kelson Vibber'
 url: 'https://kvibber.com'
-tags: ['developer', 'photography', 'blog', 'indieweb', 'reader', 'troubleshooting']
+tags: ['blog', 'books', 'developer', 'indieweb', 'photographer']
 rss: 'https://kvibber.com/feed.xml'
 ---

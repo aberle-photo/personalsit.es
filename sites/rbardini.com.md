@@ -1,6 +1,6 @@
 ---
 title: 'rbardini.com'
 url: 'https://rbardini.com'
-tags: ['web developer', 'frontend developer', 'writer']
+tags: ['developer', 'writer']
 rss: 'https://rbardini.com/rss.xml'
 ---

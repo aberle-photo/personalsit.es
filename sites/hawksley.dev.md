@@ -1,6 +1,6 @@
 ---
 title: 'Ethan Hawksley'
 url: 'https://hawksley.dev'
-tags: ['systems programming', 'cybersecurity']
+tags: ['developer', 'security']
 rss: 'https://hawksley.dev/rss.xml'
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Puntofisso'
 url: 'https://puntofisso.net'
-tags: ['data', 'ai', 'tech', 'government']
+tags: ['ai', 'data', 'politics', 'tech']
 rss: 'https://puntofisso.net/blog/index.xml'
 ---

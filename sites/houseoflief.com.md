@@ -1,6 +1,6 @@
 ---
 title: 'House of Lief'
 url: 'https://houseoflief.com'
-tags: ['webcomic','blog']
+tags: ['blog', 'comics']
 rss: 'https://houseoflief.com/feed.xml'
 ---

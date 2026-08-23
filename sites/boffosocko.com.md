@@ -1,6 +1,6 @@
 ---
 title: 'Chris Aldrich'
 url: 'https://boffosocko.com'
-tags: ['publisher', 'scientist', 'engineer']
+tags: ['developer', 'researcher', 'writer']
 rss: 'https://boffosocko.com/feed/'
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Lubna Dev'
 url: 'https://lubna.dev'
-tags: ['Web designer', 'Web developer', 'Front-end', 'CSS', 'React', '11ty']
+tags: ['css', 'designer', 'developer', 'react', 'ssg']
 rss: 'https://lubna.dev/feed/feed.xml'
 ---

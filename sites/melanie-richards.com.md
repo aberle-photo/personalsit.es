@@ -1,6 +1,6 @@
 ---
 title: 'Melanie Richards'
 url: 'https://melanie-richards.com'
-tags: ['designer', 'developer', 'browsers', 'accessibility', 'a11y']
+tags: ['accessibility', 'designer', 'developer']
 rss: 'https://melanie-richards.com/feed.xml'
 ---

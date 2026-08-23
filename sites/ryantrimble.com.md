@@ -1,6 +1,6 @@
 ---
 title: 'Ryan Trimble'
 url: 'https://ryantrimble.com'
-tags: ['front end developer', 'ux designer']
+tags: ['designer', 'developer']
 rss: 'https://ryantrimble.com/rss.xml'
 ---

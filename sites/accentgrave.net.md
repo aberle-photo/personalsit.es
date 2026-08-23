@@ -1,6 +1,6 @@
 ---
 title: 'Accent grave'
 url: 'https://accentgrave.net'
-tags: ['web designer', 'teacher', 'tinkerer']
+tags: ['designer', 'educator', 'maker']
 rss: 'https://accentgrave.net/log/flux.xml'
 ---

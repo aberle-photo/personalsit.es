@@ -1,6 +1,6 @@
 ---
 title: 'Sergey Kaplich'
 url: 'https://kaplich.me'
-tags: ['engineer', 'ai', 'creator']
+tags: ['ai', 'developer']
 rss: 'https://kaplich.me/blog/rss.xml'
 ---

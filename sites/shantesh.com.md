@@ -1,6 +1,6 @@
 ---
 title: 'Shantesh Patil'
 url: 'https://shantesh.com'
-tags: ['game designer', 'writer']
+tags: ['games', 'writer']
 rss: 'https://shantesh.com/feed.atom'
 ---

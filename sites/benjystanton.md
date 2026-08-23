@@ -1,6 +1,6 @@
 ---
 title: 'Benjy Stanton'
 url: 'https://www.benjystanton.co.uk'
-tags: ['interaction designer', 'user experience designer']
+tags: ['designer']
 rss: 'https://www.benjystanton.co.uk/feed.xml'
 ---

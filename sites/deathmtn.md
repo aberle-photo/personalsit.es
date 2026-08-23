@@ -1,6 +1,6 @@
 ---
 title: 'deathmtn'
 url: 'https://smidgeo.com/notes/deathmtn/'
-tags: ['developer', 'botmaker', 'art', 'personal', 'kids', 'cats']
+tags: ['artist', 'blog', 'developer', 'parenting']
 rss: 'https://smidgeo.com/notes/deathmtn/rss/index.rss'
 ---

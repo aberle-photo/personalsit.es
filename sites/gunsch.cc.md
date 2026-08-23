@@ -1,6 +1,6 @@
 ---
 title: 'Andrew Gunsch'
 url: 'https://gunsch.cc'
-tags: ['software engineer']
+tags: ['developer']
 rss: 'https://gunsch.cc/feed.xml'
 ---

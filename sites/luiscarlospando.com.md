@@ -1,6 +1,6 @@
 ---
 title: 'Luis Carlos Pando'
 url: 'https://luiscarlospando.com'
-tags: ['web dev', 'music fan', 'punk rocker', 'gamer']
+tags: ['developer', 'games', 'musician']
 rss: 'https://blog.luiscarlospando.com/feed/'
 ---

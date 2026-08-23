@@ -1,6 +1,6 @@
 ---
 title: 'Random Wits'
 url: 'https://randomwits.com'
-tags: ['programming', 'java', 'python', 'spark', 'scala', 'science', 'opinion', 'poetry']
+tags: ['books', 'data', 'developer', 'python', 'science']
 rss: 'https://randomwits.com/feed.xml'
 ---

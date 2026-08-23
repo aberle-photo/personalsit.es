@@ -1,5 +1,5 @@
 ---
 title: 'Site of Thi'
 url: 'https://dinhanhthi.com'
-tags: ['data scientist', 'mathematician', 'web designer', 'note taking']
+tags: ['data', 'designer', 'digital garden', 'science']
 ---

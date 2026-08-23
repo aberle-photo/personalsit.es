@@ -1,6 +1,6 @@
 ---
 title: 'Matthew Blode'
 url: 'https://matthewblode.com'
-tags: ['product engineer', 'founder', 'writer']
+tags: ['developer', 'founder', 'writer']
 rss: 'https://matthewblode.com/feed.xml'
 ---

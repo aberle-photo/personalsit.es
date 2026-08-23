@@ -1,6 +1,6 @@
 ---
 title: "Obspogon's Zone"
 url: 'https://obspogon.neocities.org'
-tags: ['videogames', 'old internet', 'blog']
+tags: ['blog', 'games', 'retro computing']
 rss: 'https://obspogon.neocities.org/blog/feed.xml'
 ---

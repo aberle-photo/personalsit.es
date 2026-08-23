@@ -1,6 +1,6 @@
 ---
 title: 'Jak2k'
 url: 'https://jak2k.eu'
-tags: ['web developer', 'linux nerd', 'indieweb']
+tags: ['developer', 'indieweb', 'linux']
 rss: 'https://jak2k.eu/feed.xml'
 ---

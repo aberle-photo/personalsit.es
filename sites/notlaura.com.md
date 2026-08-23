@@ -1,6 +1,6 @@
 ---
 title: 'Lara Schenck'
 url: 'https://notlaura.com'
-tags: ['developer', 'designer', 'wordpress', 'css']
+tags: ['css', 'designer', 'developer', 'wordpress']
 rss: 'https://notlaura.com/feed/'
 ---

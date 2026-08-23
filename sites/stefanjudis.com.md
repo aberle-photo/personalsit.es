@@ -1,6 +1,6 @@
 ---
 title: "Stefan Judis"
 url: "https://www.stefanjudis.com"
-tags: ["web developer", "writer", "speaker"]
+tags: ['developer', 'speaker', 'writer']
 rss: "https://www.stefanjudis.com/rss.xml"
 ---

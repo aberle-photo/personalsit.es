@@ -1,6 +1,6 @@
 ---
 title: 'The New leaf Journal'
 url: 'https://thenewleafjournal.com'
-tags: ['writing', 'tech', 'history', 'literature', 'photography', 'video games', 'visual novels', 'anime', 'anecdotes']
+tags: ['books', 'comics', 'games', 'photographer', 'tech', 'writer']
 rss: 'https://thenewleafjournal.com/feed/'
 ---

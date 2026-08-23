@@ -1,6 +1,6 @@
 ---
 title: "Lars-Christian's website"
 url: 'https://lars-christian.com'
-tags: ['web tinkerer', 'indieweb', 'writer']
+tags: ['developer', 'indieweb', 'writer']
 rss: 'https://lars-christian.com/feed.xml'
 ---

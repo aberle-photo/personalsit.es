@@ -1,6 +1,6 @@
 ---
 title: 'Daniel Rotter'
 url: 'https://danielrotter.at'
-tags: ['developer', 'web developer', 'blog']
+tags: ['blog', 'developer']
 rss: 'https://danielrotter.at/feed.xml'
 ---

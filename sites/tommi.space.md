@@ -1,6 +1,6 @@
 ---
 title: 'tommi.space'
 url: 'https://tommi.space'
-tags: ['student', 'researcher', 'enthusiast', 'scout', 'philosopher', 'festival director', 'photographer', 'videomaker', 'free software advocate']
+tags: ['film', 'open source', 'philosophy', 'photographer', 'researcher', 'student', 'tech']
 rss: 'https://tommi.space/index.xml'
 ---

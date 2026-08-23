@@ -1,6 +1,6 @@
 ---
 title: 'Hari Mohan'
 url: 'https://haripm.com'
-tags: ['developer', 'sysadmin', 'open source']
+tags: ['developer', 'linux', 'open source']
 rss: 'https://haripm.com/rss.xml'
 ---

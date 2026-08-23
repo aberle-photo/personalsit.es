@@ -1,6 +1,6 @@
 ---
 title: 'Tracy Durnell'
 url: 'https://tracydurnell.com'
-tags: ['writer', 'designer', 'indie web', 'blog', 'personal']
+tags: ['blog', 'designer', 'indieweb', 'writer']
 rss: 'https://tracydurnell.com/feed/'
 ---

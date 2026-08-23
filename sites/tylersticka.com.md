@@ -1,6 +1,6 @@
 ---
 title: 'Tyler Sticka'
 url: 'https://tylersticka.com'
-tags: ['Designer', 'Developer', 'Cartoonist', 'Web', 'Games']
+tags: ['comics', 'designer', 'developer', 'games']
 rss: 'https://tylersticka.com/journal/feed.xml'
 ---

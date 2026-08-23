@@ -1,6 +1,6 @@
 ---
 title: 'Matthias Ott'
 url: 'https://matthiasott.com'
-tags: ['UX Designer', 'UI Engineer', 'Teacher', 'Speaker', 'Prototyping']
+tags: ['designer', 'educator', 'speaker']
 rss: 'https://matthiasott.com/feed'
 ---

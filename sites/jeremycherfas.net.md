@@ -1,6 +1,6 @@
 ---
 title: 'Jeremy Cherfas'
 url: 'https://www.jeremycherfas.net'
-tags: ['podcaster', 'writer', 'baker']
+tags: ['food', 'podcaster', 'writer']
 rss: 'https://www.jeremycherfas.net/blog.rss'
 ---

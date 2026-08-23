@@ -1,6 +1,6 @@
 ---
 title: 'Will Hackett'
 url: 'https://willhackett.uk'
-tags: ['software engineer', 'founder']
+tags: ['developer', 'founder']
 rss: 'https://willhackett.uk/feed.rss'
 ---

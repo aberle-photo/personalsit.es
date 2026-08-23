@@ -1,6 +1,6 @@
 ---
 title: 'zkbro'
 url: 'https://html-chunder.neocities.org'
-tags: ['blog','personal','running','mountains','linux','spatial','gardening','web']
+tags: ['blog', 'developer', 'linux', 'sports']
 rss: 'https://html-chunder.neocities.org/atom.xml'
 ---

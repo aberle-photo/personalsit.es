@@ -1,6 +1,6 @@
 ---
 title: 'Ilyess Bachiri'
 url: 'https://ilyessbachiri.com'
-tags: ['software engineer', 'programmer', 'developer']
+tags: ['developer']
 rss: 'https://ilyessbachiri.com/index.xml'
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Alberto Gallego'
 url: 'https://albertogalca.com'
-tags: ['web developer', 'writer', 'photographer']
+tags: ['developer', 'photographer', 'writer']
 rss: 'https://albertogalca.com/feed.xml'
 ---

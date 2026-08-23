@@ -1,6 +1,6 @@
 ---
 title: 'uncenter'
 url: 'https://uncenter.dev'
-tags: ['developer', '11ty']
+tags: ['developer', 'ssg']
 rss: 'https://uncenter.dev/feed.xml'
 ---

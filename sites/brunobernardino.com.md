@@ -1,6 +1,6 @@
 ---
 title: 'Bruno Bernardino'
 url: 'https://brunobernardino.com'
-tags: ['software engineer', 'linux', 'privacy', 'mindfulness', 'minimalism', 'writer', 'artist', 'music']
+tags: ['artist', 'developer', 'linux', 'mental health', 'musician', 'privacy', 'writer']
 rss: 'https://news.onbrn.com/rss.xml'
 ---

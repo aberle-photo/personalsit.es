@@ -1,6 +1,6 @@
 ---
 title: 'Henrique Dias'
 url: 'https://hacdias.com'
-tags: ['student', 'developer', 'indieweb']
+tags: ['developer', 'indieweb', 'student']
 rss: 'https://hacdias.com/feed.xml'
 ---

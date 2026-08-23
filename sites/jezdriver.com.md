@@ -1,6 +1,6 @@
 ---
 title: 'Jeremy Driver'
 url: 'https://jezdriver.com/'
-tags: ['personal', 'web developer', 'front-end', 'photography', 'blog']
+tags: ['blog', 'developer', 'photographer']
 rss: 'https://jezdriver.com/blog-feed.atom'
 ---

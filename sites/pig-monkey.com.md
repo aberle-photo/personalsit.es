@@ -1,6 +1,6 @@
 ---
 title: 'pig-monkey.com'
 url: 'https://pig-monkey.com'
-tags: ['blogger', 'personal']
+tags: ['blog', 'writer']
 rss: 'https://pig-monkey.com/feed.atom'
 ---

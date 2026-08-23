@@ -1,6 +1,6 @@
 ---
 title: 'Mamboleoo'
 url: 'https://www.mamboleoo.be'
-tags: ['frontend', 'developer', 'generative']
+tags: ['artist', 'developer']
 rss: 'https://www.mamboleoo.be/feed'
 ---

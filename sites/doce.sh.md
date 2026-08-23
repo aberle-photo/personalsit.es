@@ -1,6 +1,6 @@
 ---
 title: 'Doce Fernandes'
 url: 'https://doce.sh'
-tags: ['unicorn developer', 'game developer']
+tags: ['developer', 'games']
 rss: 'https://doce.sh/feed'
 ---

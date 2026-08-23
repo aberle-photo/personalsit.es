@@ -1,6 +1,6 @@
 ---
 title: 'Yordi'
 url: 'https://yordi.me'
-tags: ['teacher', 'developer', 'writer']
+tags: ['developer', 'educator', 'writer']
 rss: 'https://yordi.me/feed/'
 ---

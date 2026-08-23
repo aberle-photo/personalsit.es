@@ -1,6 +1,6 @@
 ---
 title: 'huphtur'
 url: 'https://huphtur.nl'
-tags: ['dutch', 'cycling', 'skateboarding', 'computers']
+tags: ['sports', 'tech']
 rss: 'https://huphtur.nl/feed.xml'
 ---

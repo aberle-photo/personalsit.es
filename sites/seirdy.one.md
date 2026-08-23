@@ -1,6 +1,6 @@
 ---
 title: "Seirdy's Home"
 url: 'https://seirdy.one'
-tags: ['FLOSS', 'free software', 'blog', 'developer', 'accessibility', 'IndieWeb', 'federation', 'minimalism', 'gemini', 'programming socks']
+tags: ['accessibility', 'blog', 'developer', 'indieweb', 'open source']
 rss: 'https://seirdy.one/posts/atom.xml'
 ---

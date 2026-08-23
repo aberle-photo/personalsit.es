@@ -1,6 +1,6 @@
 ---
 title: 'Jack H. Peterson'
 url: 'https://jackhpeterson.com'
-tags: ['designer', 'developer', 'css', 'ui/ux', 'js', 'web', 'elm', '11ty', '']
+tags: ['css', 'designer', 'developer', 'javascript', 'ssg']
 rss: 'https://jackhpeterson.com/rss.xml'
 ---

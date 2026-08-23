@@ -1,6 +1,6 @@
 ---
 title: 'flamendless'
 url: 'https://flamendless.xyz'
-tags: ['software engineer', 'game developer']
+tags: ['developer', 'games']
 rss: 'https://flamendless.xyz/feed.xml'
 ---

@@ -1,6 +1,6 @@
 ---
 title: "James' Coffee Blog"
 url: 'https://jamesg.blog'
-tags: ['coffee', 'indieweb', 'web development', 'blogging']
+tags: ['blog', 'developer', 'food', 'indieweb']
 rss: 'https://jamesg.blog/feeds/posts.xml'
 ---

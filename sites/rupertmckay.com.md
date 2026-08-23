@@ -1,6 +1,6 @@
 ---
 title: 'Rupert McKay'
 url: 'https://rupertmckay.com'
-tags: ['writer', 'developer']
+tags: ['developer', 'writer']
 rss: 'https://rupertmckay.com/feed.xml'
 ---

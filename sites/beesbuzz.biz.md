@@ -1,6 +1,6 @@
 ---
 title: 'busybee'
 url: 'https://beesbuzz.biz'
-tags: ['blog','musician','artist','cartoonist','IndieWeb','web developer','indie game developer']
+tags: ['artist', 'blog', 'comics', 'developer', 'games', 'indieweb', 'musician']
 rss: 'https://beesbuzz.biz/feed'
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Jon Camfield dot com'
 url: 'https://www.joncamfield.com/'
-tags: ['technlogist', 'human rights', 'Internet freedom', 'digital rights', 'digital safety']
+tags: ['politics', 'privacy', 'security', 'tech']
 rss: 'https://www.joncamfield.com/feed.xml'
 ---

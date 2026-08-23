@@ -1,6 +1,6 @@
 ---
 title: 'Markus Haack'
 url: 'https://markus-haack.com'
-tags: ['Home Assistant', 'smart home', 'esphome', 'web', 'developer']
+tags: ['developer', 'maker']
 rss: 'https://markus-haack.com/feed/feed.xml'
 ---

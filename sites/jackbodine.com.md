@@ -1,6 +1,6 @@
 ---
 title: 'Jack Bodine'
 url: 'https://jackbodine.com'
-tags: ['Developer', 'Photography', 'Data Science']
+tags: ['data', 'developer', 'photographer']
 rss: 'https://www.jackbodine.com/feed.xml'
 ---

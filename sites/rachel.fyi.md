@@ -1,6 +1,6 @@
 ---
 title: 'Rachel Cantor'
 url: 'https://rachel.fyi'
-tags: ['freelancer', 'frontend developer', 'accessibility', 'a11y', 'trusted tester', 'react', 'node.js']
+tags: ['accessibility', 'developer', 'freelancer', 'javascript', 'react']
 rss: 'https://rachel.fyi/rss.xml'
 ---

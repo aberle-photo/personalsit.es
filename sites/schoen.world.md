@@ -1,5 +1,5 @@
 ---
 title: 'Schönwald'
 url: 'https://schoen.world'
-tags: ['frontend developer', 'css', 'react', 'typescript']
+tags: ['css', 'developer', 'react', 'typescript']
 ---

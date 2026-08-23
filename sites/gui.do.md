@@ -1,6 +1,6 @@
 ---
 title: 'Guido X Jansen'
 url: 'https://gui.do'
-tags: ['community builder', 'speaker', 'open source']
+tags: ['open source', 'speaker']
 rss: 'https://gui.do/rss.xml'
 ---

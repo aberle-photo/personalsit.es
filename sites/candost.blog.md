@@ -1,6 +1,6 @@
 ---
 title: "Candost's Blog"
 url: 'https://candost.blog'
-tags: ['software engineering', 'writer', 'engineering leadership']
+tags: ['developer', 'leadership', 'writer']
 rss: 'https://candost.blog/rss.xml'
 ---

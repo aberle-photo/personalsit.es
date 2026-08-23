@@ -1,5 +1,5 @@
 ---
 title: "Mohammad Ahmad"
 url: "https://mohammad.is-a.dev/"
-tags: ["Full stack", "developer"]
+tags: ['developer']
 ---

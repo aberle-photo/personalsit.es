@@ -1,6 +1,6 @@
 ---
 title: 'thechelsuk'
 url: 'https://thechels.uk'
-tags: ['App Developer', 'People Leader']
+tags: ['developer', 'leadership', 'mobile']
 rss: 'https://thechels.uk/feed.json'
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Unindented'
 url: 'https://www.unindented.org'
-tags: ['web developer', 'typescript', 'javascript']
+tags: ['developer', 'javascript', 'typescript']
 rss: 'https://www.unindented.org/rss.xml'
 ---

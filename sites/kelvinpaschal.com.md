@@ -1,6 +1,6 @@
 ---
 title: 'Kelvin P. Idanwekhai'
 url: 'https://kelvinpaschal.com'
-tags: ['scientist', 'writer', 'creator']
+tags: ['researcher', 'writer']
 rss: 'https://kelvinpaschal.com/rss'
 ---

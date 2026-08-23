@@ -1,6 +1,6 @@
 ---
 title: "Marco G"
 url: "https://solariz.de"
-tags: ["network engineer", "it", "tech", "linux", "developer", "writer"]
+tags: ['developer', 'linux', 'tech', 'writer']
 rss: "https://solariz.de/index.xml"
 ---

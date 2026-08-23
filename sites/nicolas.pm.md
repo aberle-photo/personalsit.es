@@ -1,6 +1,6 @@
 ---
 title: 'Carnet de Nicolas'
 url: 'https://www.nicolas.pm'
-tags: ['blog', 'personal', 'web', 'french']
+tags: ['blog', 'developer']
 rss: 'https://www.nicolas.pm/feed/atom'
 ---

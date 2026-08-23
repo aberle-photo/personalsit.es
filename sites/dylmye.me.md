@@ -1,6 +1,6 @@
 ---
 title: 'Dylan Myers'
 url: 'https://dylmye.me'
-tags: ['full stack', 'front end', 'react', 'uk']
+tags: ['developer', 'react']
 rss: 'https://dylmye.me/feed.rss'
 ---

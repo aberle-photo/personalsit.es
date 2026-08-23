@@ -1,6 +1,6 @@
 ---
 title: 'Chris Wiegman'
 url: 'https://chriswiegman.com'
-tags: ['WordPress', 'developer', 'personal blog', 'speaker', 'privacy', 'self-hosting']
+tags: ['blog', 'developer', 'privacy', 'self-hosting', 'speaker', 'wordpress']
 rss: 'https://chriswiegman.com/feed/'
 ---

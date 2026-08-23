@@ -1,6 +1,6 @@
 ---
 title: 'DJ Adams'
 url: 'https://qmacro.org'
-tags: ['developer', 'sap', 'jq', 'javascript', 'shell']
+tags: ['developer', 'javascript', 'linux']
 rss: 'https://qmacro.org/feed.xml'
 ---

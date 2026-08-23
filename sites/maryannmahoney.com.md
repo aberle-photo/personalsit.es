@@ -1,6 +1,6 @@
 ---
 title: 'Mary Ann Mahoney'
 url: 'https://maryannmahoney.com'
-tags: ['writer', 'editor', 'composer']
+tags: ['musician', 'writer']
 rss: 'https://maryannmahoney.com/feed/'
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Luka Harambasic'
 url: 'https://harambasic.de'
-tags: ['Digital tools', 'web developer', 'designer', 'writer']
+tags: ['designer', 'developer', 'writer']
 rss: 'https://harambasic.de/posts/rss'
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Hashset'
 url: 'https://hashset.dev'
-tags: ['software', 'functional']
+tags: ['developer']
 rss: 'https://hashset.dev/rss.xml'
 ---

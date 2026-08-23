@@ -1,6 +1,6 @@
 ---
 title: 'Hammy Havoc'
 url: 'https://hammyhavoc.com'
-tags: ['composer', 'musician', 'CEO']
+tags: ['founder', 'musician']
 rss: 'https://hammyhavoc.com/feed/'
 ---

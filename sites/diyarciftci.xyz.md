@@ -1,6 +1,6 @@
 ---
 title: "Diyar Ciftci"
 url: "https://diyarciftci.xyz"
-tags: ["blog", "technology"]
+tags: ['blog', 'tech']
 rss: "https://diyarciftci.xyz/index.xml"
 ---

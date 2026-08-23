@@ -1,6 +1,6 @@
 ---
 title: 'Nick Ali'
 url: 'https://nali.org'
-tags: ['marketing', 'developer', 'linux', 'privacy']
+tags: ['developer', 'linux', 'marketer', 'privacy']
 rss: 'https://nali.org/rss.xml'
 ---

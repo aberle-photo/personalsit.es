@@ -1,6 +1,6 @@
 ---
 title: 'ultracrepidarian'
 url: 'https://ultracrepidarian.phfactor.net'
-tags: ['science', 'timekeeping', 'EVs', 'unix', 'programming', 'machine learning']
+tags: ['ai', 'developer', 'linux', 'science']
 rss: 'https://ultracrepidarian.phfactor.net/feed/'
 ---

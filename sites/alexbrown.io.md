@@ -1,6 +1,6 @@
 ---
 title: 'Alex Brown'
 url: 'https://alexbrown.io'
-tags: ['design systems', 'full-stack developer', 'product engineer']
+tags: ['designer', 'developer']
 rss: 'https://alexbrown.io/rss.xml'
 ---

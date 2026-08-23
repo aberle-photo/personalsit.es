@@ -1,6 +1,6 @@
 ---
 title: 'MilesWK'
 url: 'https://www.mileswk.com'
-tags: ['webdev', 'musician', 'programmer']
+tags: ['developer', 'musician']
 rss: 'https://blog.mileswk.com/rss.xml'
 ---

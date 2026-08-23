@@ -1,6 +1,6 @@
 ---
 title: 'Martin Hicks'
 url: 'https://martinhicks.dev'
-tags: ['developer', 'web developer', 'aws', 'indieweb', 'cloud architect']
+tags: ['developer', 'indieweb']
 rss: 'https://martinhicks.dev/feed.xml'
 ---

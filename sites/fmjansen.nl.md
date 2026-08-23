@@ -1,6 +1,6 @@
 ---
 title: 'Floris Jansen'
 url: 'https://fmjansen.nl'
-tags: ['web designer', 'phd candidate', 'accessibility', 'privacy']
+tags: ['accessibility', 'designer', 'privacy', 'researcher']
 rss: 'https://fmjansen.nl/feed.xml'
 ---

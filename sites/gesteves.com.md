@@ -1,6 +1,6 @@
 ---
 title: 'Guillermo Esteves'
 url: 'https://www.gesteves.com'
-tags: ['web developer']
+tags: ['developer']
 rss: 'https://www.gesteves.com/feed.xml'
 ---

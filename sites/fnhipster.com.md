@@ -1,6 +1,6 @@
 ---
 title: 'fnhipster'
 url: 'https://fnhipster.com'
-tags: ['personal', 'blog', 'tech', 'playlists']
+tags: ['blog', 'musician', 'tech']
 rss: 'https://fnhipster.com/rss'
 ---

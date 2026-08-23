@@ -1,6 +1,6 @@
 ---
 title: 'Sven Hofmann'
 url: 'https://hofmannsven.com'
-tags: ['Developer', 'PHP', 'Laravel', 'WordPress', 'Git']
+tags: ['developer', 'php', 'wordpress']
 rss: 'https://hofmannsven.com/feed'
 ---

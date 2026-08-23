@@ -1,6 +1,6 @@
 ---
 title: 'René Coignard'
 url: 'https://renecoignard.com/'
-tags: ['composer']
+tags: ['musician']
 rss: 'https://renecoignard.com/rss/'
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Kasper Kamperman'
 url: 'https://kasperkamperman.com'
-tags: ['educator', 'creative developer']
+tags: ['artist', 'developer', 'educator']
 rss: 'https://www.kasperkamperman.com/feed/'
 ---

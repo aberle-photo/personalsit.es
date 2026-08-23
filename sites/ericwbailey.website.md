@@ -1,6 +1,6 @@
 ---
 title: 'Eric Bailey'
 url: 'https://ericwbailey.website'
-tags: ['designer', 'developer', 'a11y']
+tags: ['accessibility', 'designer', 'developer']
 rss: 'https://ericwbailey.website/feed/feed.xml'
 ---

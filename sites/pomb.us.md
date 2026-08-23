@@ -1,6 +1,6 @@
 ---
 title: 'Rodrigo Pombo'
 url: 'https://pomb.us'
-tags: ['JavaScript', 'React', 'Web', 'Design', 'Code', 'Open Source']
+tags: ['designer', 'developer', 'javascript', 'open source', 'react']
 rss: 'https://pomb.us/rss.xml'
 ---

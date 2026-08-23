@@ -1,6 +1,6 @@
 ---
 title: 'Susam Pal'
 url: 'https://susam.net/'
-tags: ['mathematics', 'technology', 'programming', 'emacs', 'lisp']
+tags: ['developer', 'emacs', 'science', 'tech']
 rss: 'https://susam.net/feed.xml'
 ---

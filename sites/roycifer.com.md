@@ -1,5 +1,5 @@
 ---
 title: 'roycifer'
 url: 'https://roycifer.com'
-tags: ['web developer', 'designer', 'musician', 'glitch art']
+tags: ['artist', 'designer', 'developer', 'musician']
 ---

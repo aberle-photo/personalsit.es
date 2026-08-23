@@ -1,6 +1,6 @@
 ---
 title: "Stranger Than Usual"
 url: "https://blog.strangerthanusual.de"
-tags: ["blog", "rpg", "coding", "politics", "privacy", "creative coding"]
+tags: ['artist', 'blog', 'developer', 'games', 'politics', 'privacy']
 rss: "https://blog.strangerthanusual.de/feed.atom"
 ---

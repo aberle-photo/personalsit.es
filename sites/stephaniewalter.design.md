@@ -1,6 +1,6 @@
 ---
 title: 'Stéphanie Walter'
 url: 'https://stephaniewalter.design'
-tags: ['UX Research', 'UX Design', 'Inclusive Design','Accessibility','Speaker', 'Writer', 'Teacher', 'Newsletter']
+tags: ['accessibility', 'designer', 'educator', 'speaker', 'writer']
 rss: 'https://stephaniewalter.design/blog/feed/'
 ---

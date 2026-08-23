@@ -1,6 +1,6 @@
 ---
 title: 'Brian DeVries'
 url: 'https://brianjdevries.com'
-tags: ['software engineer', 'woodworker', 'father', 'outdoorsman']
+tags: ['developer', 'maker', 'parenting', 'sports']
 rss: 'https://brianjdevries.com/feed.xml'
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Colin Morris'
 url: 'https://vonexplaino.com'
-tags: ['developer', 'solution architect', 'steampunk']
+tags: ['developer']
 rss: 'https://vonexplaino.com/blog/rss.xml'
 ---

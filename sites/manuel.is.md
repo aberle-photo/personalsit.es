@@ -1,6 +1,6 @@
 ---
 title: 'manuel.is'
 url: 'https://manuel.is'
-tags: ['software', 'engineering', 'personal']
+tags: ['blog', 'developer']
 rss: 'https://manuel.is/posts/index.xml'
 ---

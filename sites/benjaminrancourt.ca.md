@@ -1,6 +1,6 @@
 ---
 title: 'Benjamin Rancourt'
 url: 'https://www.benjaminrancourt.ca'
-tags: ['developer', 'blogger', 'web', 'devops', 'development']
+tags: ['developer', 'writer']
 rss: 'https://www.benjaminrancourt.ca/blog/rss/'
 ---

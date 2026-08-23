@@ -1,15 +1,6 @@
 ---
 title: 'Brent Turner'
 url: 'https://brentturner.is'
-tags:
-  [
-    'builder',
-    'writer',
-    'strategist',
-    'foresight sharer',
-    'the new new publisher',
-    'technologist',
-    'marketer',
-  ]
+tags: ['maker', 'marketer', 'tech', 'writer']
 rss: 'https://brentturner.is/rss.xml'
 ---

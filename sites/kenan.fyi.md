@@ -1,6 +1,6 @@
 ---
 title: 'kenan.fyi'
 url: 'https://kenan.fyi'
-tags: ['engineer', 'hardware', 'electronics', 'coding']
+tags: ['developer', 'maker']
 rss: 'https://kenan.fyi/rss.xml'
 ---

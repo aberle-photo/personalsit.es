@@ -1,6 +1,6 @@
 ---
 title: "Sara Zan's Blog"
 url: 'https://zansara.dev'
-tags: ['oss', 'llms', 'ai', 'tech', 'developer']
+tags: ['ai', 'developer', 'open source', 'tech']
 rss: 'https://www.zansara.dev/index.xml'
 ---

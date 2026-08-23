@@ -1,6 +1,6 @@
 ---
 title: 'Mat Marquis'
 url: 'https://wil.to'
-tags: ['designer', 'front-end developer', 'writer', 'mega man II enthusiast']
+tags: ['designer', 'developer', 'games', 'writer']
 rss: 'https://wil.to/feed.xml'
 ---

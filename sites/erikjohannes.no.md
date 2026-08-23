@@ -1,6 +1,6 @@
 ---
 title: "Erik Johannes Husom"
 url: "https://erikjohannes.no"
-tags: ["humane technology", "sustainability", "running", "mountaineering"]
+tags: ['sports', 'sustainability']
 rss: "https://erikjohannes.no/index.xml"
 ---

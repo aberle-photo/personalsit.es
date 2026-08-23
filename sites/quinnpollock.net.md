@@ -1,6 +1,6 @@
 ---
 title: 'Quinn Pollock'
 url: 'https://quinnpollock.net'
-tags: ['Developer', 'Web', 'RPGs', 'Code', 'Film', 'Reviews' ]
+tags: ['developer', 'film', 'games']
 rss: 'https://quinnpollock.net/feed.xml'
 ---

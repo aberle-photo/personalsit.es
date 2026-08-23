@@ -1,6 +1,6 @@
 ---
 title: 'Max Dietrich'
 url: 'https://mxd.codes'
-tags: ['GeoData Manager', 'Web-Developer', 'GIS']
+tags: ['data', 'developer']
 rss: 'https://mxd.codes/feed.xml'
 ---

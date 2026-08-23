@@ -1,6 +1,6 @@
 ---
 title: 'Amber Weinberg'
 url: 'https://amberweinberg.com'
-tags: ['development', 'wordpress', 'accessibility', freelance']
+tags: ['accessibility', 'developer', 'wordpress']
 rss: 'https://amberweinberg.com/feed'
 ---

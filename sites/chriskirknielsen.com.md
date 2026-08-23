@@ -1,6 +1,6 @@
 ---
 title: 'chriskirknielsen'
 url: 'https://chriskirknielsen.com'
-tags: ['front-end developer', 'graphic designer', 'motion designer']
+tags: ['designer', 'developer']
 rss: 'https://chriskirknielsen.com/rss.xml'
 ---

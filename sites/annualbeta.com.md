@@ -1,6 +1,6 @@
 ---
 title: 'annualbeta'
 url: 'https://annualbeta.com'
-tags: ['Front-end Developer']
+tags: ['developer']
 rss: 'https://annualbeta.com/feed.xml'
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Aaron Massicotte'
 url: 'https://aaronmassicotte.com'
-tags: ['photography', 'recipes', 'writing']
+tags: ['food', 'photographer', 'writer']
 rss: 'https://aaronmassicotte.com/index.xml'
 ---

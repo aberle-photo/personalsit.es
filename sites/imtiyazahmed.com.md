@@ -1,5 +1,5 @@
 ---
 title: 'Imtiyaz Ahmed'
 url: 'https://www.imtiyazahmed.com'
-tags: ['designer', 'builder', 'writer', 'engineer']
+tags: ['designer', 'developer', 'maker', 'writer']
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Omar Bohsali'
 url: 'https://omarish.com'
-tags: ['Engineer', 'Writer', 'Investor']
+tags: ['developer', 'founder', 'writer']
 rss: 'https://omarish.com/posts.xml'
 ---

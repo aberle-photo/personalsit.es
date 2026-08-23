@@ -1,6 +1,6 @@
 ---
 title: 'closingtags.com'
 url: 'https://www.closingtags.com'
-tags: ['web development', 'css', 'html', 'js', 'developer', 'svelte', 'sveltekit']
+tags: ['css', 'developer', 'html', 'javascript']
 rss: 'https://www.closingtags.com/api/rss.xml'
 ---

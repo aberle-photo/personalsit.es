@@ -1,6 +1,6 @@
 ---
 title: "Zachary Kai"
 url: "https://zacharykai.net"
-tags: ["writer", "freelancer", "artist", "zinester"]
+tags: ['artist', 'comics', 'freelancer', 'writer']
 rss: "https://zacharykai.net/assets/rss.xml"
 ---

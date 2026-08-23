@@ -1,6 +1,6 @@
 ---
 title: 'Alex Magill'
 url: 'https://alexmagill.com'
-tags: ['design', 'creativity', 'writing']
+tags: ['designer', 'writer']
 rss: 'https://alexmagill.com/feed.xml'
 ---

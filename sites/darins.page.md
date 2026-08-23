@@ -1,6 +1,6 @@
 ---
 title: 'Darin Senneff'
 url: 'https://www.darins.page'
-tags: ['usability', 'user-experience', 'accessibility', 'front-end development']
+tags: ['accessibility', 'designer', 'developer']
 rss: 'https://www.darins.page/articles/feed'
 ---

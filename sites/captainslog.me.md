@@ -1,6 +1,6 @@
 ---
 title: "Captain's Log"
 url: 'https://captainslog.me'
-tags: ['linux', 'blog','personal' ]
+tags: ['blog', 'linux']
 rss: 'https://captainslog.me/feeds/all.xml'
 ---

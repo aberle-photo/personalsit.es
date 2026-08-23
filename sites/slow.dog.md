@@ -1,6 +1,6 @@
 ---
 title: 'Sluggish Canine Enterprises'
 url: 'https://slow.dog'
-tags: ['autistic', 'mediocre', 'portland']
+tags: ['mental health']
 rss: 'https://bixfrankonis.status.lol/feed/rss'
 ---

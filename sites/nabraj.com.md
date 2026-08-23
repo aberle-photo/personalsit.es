@@ -1,6 +1,6 @@
 ---
 title: 'Ramblings of NT'
 url: 'https://nabraj.com'
-tags: ['full-stack engineer', 'electronics', 'diy']
+tags: ['developer', 'maker']
 rss: 'https://nabraj.com/rss.xml'
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'V.H. Belvadi'
 url: 'https://vhbelvadi.com'
-tags: ['writer', 'photography', 'academic', 'short films', 'newsletter']
+tags: ['film', 'photographer', 'researcher', 'writer']
 rss: 'https://vhbelvadi.com/rss'
 ---

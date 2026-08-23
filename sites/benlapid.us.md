@@ -1,6 +1,6 @@
 ---
 title: 'Ben Lapidus'
 url: 'https://benlapid.us'
-tags: ['developer', 'frontend', 'software engineer', 'blog']
+tags: ['blog', 'developer']
 rss: 'https://benlapid.us/rss.xml'
 ---

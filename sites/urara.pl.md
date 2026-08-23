@@ -1,6 +1,6 @@
 ---
 title: 'Urara'
 url: 'https://urara.pl/'
-tags: ['artist', 'illustrator', 'writer', 'game developer', 'blogger', 'photographer']
+tags: ['artist', 'developer', 'games', 'illustrator', 'photographer', 'writer']
 rss: 'https://blog.urara.pl/feed'
 ---

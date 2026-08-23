@@ -1,6 +1,6 @@
 ---
 title: 'Matthias Zöchling'
 url: 'https://cssence.com'
-tags: ['web', 'developer', 'austria', 'blog', 'css', 'html', 'a11y']
+tags: ['accessibility', 'blog', 'css', 'developer', 'html']
 rss: 'https://cssence.com/rss.xml'
 ---

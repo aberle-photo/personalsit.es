@@ -1,6 +1,6 @@
 ---
 title: 'Jake Jarvis'
 url: 'https://jarv.is'
-tags: ['Front-End Developer', 'Infosec', 'JavaScript', 'Serverless', 'Blog']
+tags: ['blog', 'developer', 'javascript', 'security']
 rss: 'https://jarv.is/feed.xml'
 ---

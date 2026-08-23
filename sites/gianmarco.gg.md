@@ -1,6 +1,6 @@
 ---
 title: 'Gianmarco Gargiulo'
 url: 'https://gianmarco.gg'
-tags: ['artist', 'foss', 'blog', 'privacy', 'designer', 'indieweb', 'linux']
+tags: ['artist', 'blog', 'designer', 'indieweb', 'linux', 'open source', 'privacy']
 rss: 'https://gianmarco.gg/index.xml'
 ---

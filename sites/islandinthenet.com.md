@@ -1,6 +1,6 @@
 ---
 title: 'Island in the Net'
 url: 'https://islandinthenet.com'
-tags: ['information security professional', 'photographer']
+tags: ['photographer', 'security']
 rss: 'https://islandinthenet.com/feed/'
 ---

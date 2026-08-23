@@ -1,6 +1,6 @@
 ---
 title: 'mmatt.net'
 url: 'https://mmatt.net'
-tags: ['frontend web developer', 'atproto', 'writing but bad but okay']
+tags: ['developer', 'indieweb', 'writer']
 rss: 'https://mmatt.net/rss'
 ---

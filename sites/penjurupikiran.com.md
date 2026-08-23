@@ -1,6 +1,6 @@
 ---
 title: 'penjuru pikiran'
 url: 'https://penjurupikiran.com'
-tags: ['writer', 'developer', 'indie web']
+tags: ['developer', 'indieweb', 'writer']
 rss: 'https://penjurupikiran.com/rss.xml'
 ---

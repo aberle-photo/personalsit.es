@@ -1,6 +1,6 @@
 ---
 title: 'François Best'
 url: 'https://francoisbest.com'
-tags: ['web developer', 'writer', 'freelancer', 'cryptography', 'security', 'privacy', 'web design']
+tags: ['designer', 'developer', 'freelancer', 'privacy', 'security', 'writer']
 rss: 'https://francoisbest.com/posts/feed/rss.xml'
 ---

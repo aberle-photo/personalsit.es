@@ -1,6 +1,6 @@
 ---
 title: 'Wondering Chimp'
 url: 'https://www.wonderingchimp.com'
-tags: ['devops', 'sustainability', 'writer']
+tags: ['developer', 'sustainability', 'writer']
 rss: 'https://www.wonderingchimp.com/rss/'
 ---

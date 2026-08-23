@@ -1,6 +1,6 @@
 ---
 title: 'Parth Kabra'
 url: 'https://parthkabra.me'
-tags: ['web developer', 'food']
+tags: ['developer', 'food']
 rss: 'https://parthkabra.me/rss.xml'
 ---

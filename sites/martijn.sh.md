@@ -1,5 +1,5 @@
 ---
 title: './Martijn.sh > Blog'
 url: 'https://martijn.sh'
-tags: ['scripting', 'electronics', 'cybersecurity', 'DIY', 'analyst', 'research', 'linkdumps']
+tags: ['blog', 'data', 'developer', 'maker', 'researcher', 'security']
 ---

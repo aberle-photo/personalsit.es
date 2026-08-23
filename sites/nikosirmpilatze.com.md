@@ -1,6 +1,6 @@
 ---
 title: 'Niko Sirmpilatze'
 url: 'https://nikosirmpilatze.com'
-tags: ['research software engineer', 'scientist']
+tags: ['developer', 'researcher']
 rss: 'https://nikosirmpilatze.com/blog/index.xml'
 ---

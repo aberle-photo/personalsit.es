@@ -1,6 +1,6 @@
 ---
 title: 'Alexandru-Paul Copil'
 url: 'https://cpl.li'
-tags: ['low level', 'backend', 'golang']
+tags: ['developer', 'go']
 rss: 'https://cpl.li/index.xml'
 ---

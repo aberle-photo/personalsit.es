@@ -1,6 +1,6 @@
 ---
 title: 'Preslav Rachev'
 url: 'https://preslav.me'
-tags: ['software engineer', 'entrepreneur', 'educator']
+tags: ['developer', 'educator', 'founder']
 rss: 'https://preslav.me/index.xml'
 ---

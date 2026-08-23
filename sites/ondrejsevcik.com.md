@@ -1,6 +1,6 @@
 ---
 title: 'Ondrej Sevcik'
 url: 'https://ondrejsevcik.com'
-tags: ['dev', 'life', 'tech']
+tags: ['developer', 'tech']
 rss: 'https://ondrejsevcik.com/rss.xml'
 ---

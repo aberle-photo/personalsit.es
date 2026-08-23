@@ -1,6 +1,6 @@
 ---
 title: 'Bogdan Buduroiu'
 url: 'https://buduroiu.com'
-tags: ['platform engineer', 'devops', 'writer']
+tags: ['developer', 'writer']
 rss: 'https://buduroiu.com/index.xml'
 ---

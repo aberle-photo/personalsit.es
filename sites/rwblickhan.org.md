@@ -1,6 +1,6 @@
 ---
 title: 'R.W. Blickhan'
 url: 'https://rwblickhan.org'
-tags: ['writer', 'programmer']
+tags: ['developer', 'writer']
 rss: 'https://rwblickhan.org/rss.xml'
 ---

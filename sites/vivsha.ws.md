@@ -1,6 +1,6 @@
 ---
 title: "vivshaw's webbed sight"
 url: 'https://vivsha.ws'
-tags: ['machine learning', 'devops', 'platform engineering', 'zettelkasten', 'monochrome', 'Vermont']
+tags: ['ai', 'developer', 'digital garden']
 rss: 'https://vivsha.ws/feed.xml'
 ---

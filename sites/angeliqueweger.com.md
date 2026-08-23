@@ -1,6 +1,6 @@
 ---
 title: 'Angélique Weger'
 url: 'https://angeliqueweger.com'
-tags: ['developer', 'teacher', 'maker', 'front-end', 'accessibility', 'a11y', 'CSS', 'Sass', 'leadership', 'eleventy', '11ty']
+tags: ['accessibility', 'css', 'developer', 'educator', 'leadership', 'maker', 'ssg']
 rss: 'https://angeliqueweger.com/feed/feed.xml'
 ---

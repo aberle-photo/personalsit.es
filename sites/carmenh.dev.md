@@ -1,6 +1,6 @@
 ---
 title: 'Carmen Huidobro'
 url: 'https://carmenh.dev'
-tags: ['DevRel', 'Developer Advocate', 'Software Engineer', 'Mentor', 'Freelancer']
+tags: ['developer', 'educator', 'freelancer']
 rss: 'https://carmenh.dev/blog/feed.xml'
 ---

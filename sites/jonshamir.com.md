@@ -1,6 +1,6 @@
 ---
 title: 'Jon Shamir'
 url: 'https://jonshamir.com'
-tags: ['designer', 'creative', 'developer', '3d', 'spatial']
+tags: ['designer', 'developer', 'maker']
 rss: 'https://jonshamir.com/rss.xml'
 ---

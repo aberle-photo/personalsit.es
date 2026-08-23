@@ -1,6 +1,6 @@
 ---
 title: 'Rowan Merewood'
 url: 'https://rowan.fyi'
-tags: ['developer', 'web', 'javascript']
+tags: ['developer', 'javascript']
 rss: 'https://rowan.fyi/rss.xml'
 ---

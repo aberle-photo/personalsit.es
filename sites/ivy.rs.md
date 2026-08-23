@@ -1,6 +1,6 @@
 ---
 title: 'ivy.rs'
 url: 'https://ivy.rs'
-tags: ['writer', 'musician']
+tags: ['musician', 'writer']
 rss: 'https://ivy.rs/blog/feed.rss'
 ---

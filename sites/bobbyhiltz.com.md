@@ -1,6 +1,6 @@
 ---
 title: 'BobbyHiltz.com'
 url: 'https://bobbyhiltz.com'
-tags: ['personal life', 'education', 'plain text', 'short fiction', 'technology', 'privacy']
+tags: ['educator', 'privacy', 'tech', 'writer']
 rss: 'https://bobbyhiltz.com/atom.xml'
 ---

@@ -1,6 +1,6 @@
 ---
 title: Terracrypt
 url: 'https://www.terracrypt.net/'
-tags: ['scheme', 'guix', 'object capabilities', 'blog']
+tags: ['blog', 'developer', 'linux']
 rss: 'https://www.terracrypt.net/feed.xml'
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Love is Zero'
 url: 'https://loveiszero.net'
-tags: ['blogger', 'art', 'fandom', 'photoshop', 'true crime', 'tarot', 'personal', 'writer']
+tags: ['artist', 'blog', 'designer', 'writer']
 rss: 'https://loveiszero.net/?feed=rss2'
 ---

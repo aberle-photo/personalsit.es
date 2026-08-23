@@ -1,6 +1,6 @@
 ---
 title: 'Mayx Blog'
 url: 'https://mabbs.github.io'
-tags: ['programmer‌', 'writer', 'developer', 'devops']
+tags: ['developer', 'writer']
 rss: 'https://mabbs.github.io/atom.xml'
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Myles' Garden"
 url: "https://myles.garden"
-tags: ["developer", "photography"]
+tags: ['developer', 'photographer']
 rss: "https://myles.garden/feed.xml"
 ---

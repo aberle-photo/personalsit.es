@@ -1,6 +1,6 @@
 ---
 title: 'bueltge.de'
 url: 'https://bueltge.de'
-tags: ['personalsit.es maintainer', 'developer', 'consultant', 'writer', 'wordpress', 'SAP']
+tags: ['developer', 'freelancer', 'wordpress', 'writer']
 rss: 'https://bueltge.de/feed/'
 ---

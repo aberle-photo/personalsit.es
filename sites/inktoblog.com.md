@@ -1,6 +1,6 @@
 ---
 title: 'Ink to Blog'
 url: 'https://inktoblog.com'
-tags: ['journaling']
+tags: ['blog']
 rss: 'https://inktoblog.com/feed.xml'
 ---

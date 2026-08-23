@@ -1,6 +1,6 @@
 ---
 title: 'Matt Stein'
 url: 'https://mattstein.com'
-tags: ['Generalist', 'Designer', 'Developer', 'Writer']
+tags: ['designer', 'developer', 'tech', 'writer']
 rss: 'https://mattstein.com/rss.xml'
 ---

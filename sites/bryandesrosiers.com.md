@@ -1,6 +1,6 @@
 ---
 title: 'Bryan Desrosiers'
 url: 'https://bryandesrosiers.com'
-tags: ['photographer', 'designer', 'composer']
+tags: ['designer', 'musician', 'photographer']
 rss: 'https://bryandesrosiers.com/feed/'
 ---

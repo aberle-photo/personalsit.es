@@ -1,6 +1,6 @@
 ---
 title: "elle's homepage"
 url: 'https://ellesho.me'
-tags: ['personal', 'homepage', 'blog', 'web', 'explorer']
+tags: ['blog', 'developer', 'travel']
 rss: 'https://ellesho.me/page/rss.xml'
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Hrvoje Šimić'
 url: 'https://shime.sh'
-tags: ['Full-Stack Developer', 'Freelancer']
+tags: ['developer', 'freelancer']
 rss: 'https://shime.sh/feed.xml'
 ---

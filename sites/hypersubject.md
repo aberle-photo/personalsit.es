@@ -1,6 +1,6 @@
 ---
 title: 'hypersubject.net'
 url: 'https://hypersubject.net/'
-tags: ['personal', 'art', 'philosophy']
+tags: ['artist', 'blog', 'philosophy']
 rss: 'https://hypersubject.net/index.xml'
 ---

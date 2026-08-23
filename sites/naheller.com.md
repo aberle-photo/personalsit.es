@@ -1,6 +1,6 @@
 ---
 title: 'Nathan Heller'
 url: 'https://naheller.com'
-tags: ['indie web', 'computers', 'metal', 'travel', 'blogging']
+tags: ['blog', 'indieweb', 'musician', 'tech', 'travel']
 rss: 'https://naheller.com/feed.xml'
 ---

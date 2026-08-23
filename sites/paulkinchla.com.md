@@ -1,6 +1,6 @@
 ---
 title: 'Paul Kinchla'
 url: 'https://paulkinchla.com'
-tags: [ 'CSS', 'designer', 'developer', 'progressive enhancement']
+tags: ['css', 'designer', 'developer']
 rss: 'https://paulkinchla.com/feed/'
 ---

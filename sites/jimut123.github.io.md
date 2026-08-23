@@ -1,5 +1,5 @@
 ---
 title: 'Jimut Bahan Pal'
 url: 'https://jimut123.github.io'
-tags: ['Machine Learning', 'student','personal blogs','writer','academics']
+tags: ['ai', 'blog', 'researcher', 'student', 'writer']
 ---

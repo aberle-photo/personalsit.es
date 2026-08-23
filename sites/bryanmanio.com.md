@@ -1,6 +1,6 @@
 ---
 title: 'Bryan Maniotakis'
 url: 'https://bryanmanio.com'
-tags: ['designer', 'writer', 'blog']
+tags: ['blog', 'designer', 'writer']
 rss: 'https://bryanmanio.com/feed/'
 ---

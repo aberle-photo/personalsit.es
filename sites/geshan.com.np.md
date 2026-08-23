@@ -1,6 +1,6 @@
 ---
 title: 'Geshan Manandhar'
 url: 'https://geshan.com.np'
-tags: ['software engineer', 'backend']
+tags: ['developer']
 rss: 'https://geshan.com.np/atom.xml'
 ---

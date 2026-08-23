@@ -1,6 +1,6 @@
 ---
 title: 'Micah Walter'
 url: 'https://www.micahwalter.com'
-tags: ['technology', 'museums', 'work', 'photography', 'writing']
+tags: ['artist', 'photographer', 'tech', 'writer']
 rss: 'https://www.micahwalter.com/feed/'
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Jamie Tanna'
 url: 'https://www.jvt.me'
-tags: ['Software Engineer', 'Indieweb', 'Hugo', 'Blogumentation', 'Blogger', 'Chef', 'Ruby', 'Java']
+tags: ['blog', 'developer', 'food', 'indieweb', 'ruby', 'ssg', 'writer']
 rss: 'https://www.jvt.me/feed.xml'
 ---

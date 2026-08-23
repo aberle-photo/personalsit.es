@@ -1,6 +1,6 @@
 ---
 title: 'Secluded.Site'
 url: 'https://secluded.site'
-tags: ['business owner', 'developer', 'pipe smoker', 'open source', 'linux']
+tags: ['developer', 'founder', 'linux', 'open source']
 rss: 'https://secluded.site/posts/index.xml'
 ---

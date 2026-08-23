@@ -1,6 +1,6 @@
 ---
 title: 'Douglas Pinheiro Goulart'
 url: 'https://www.douglasgoulart.com'
-tags: ['software developer', 'technology']
+tags: ['developer', 'tech']
 rss: 'https://www.douglasgoulart.com/rss.xml'
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Christian Cleberg"
 url: "https://cleberg.net"
-tags: ["self hoster", "auditor", "developer"]
+tags: ['developer', 'self-hosting']
 rss: "https://cleberg.net/feed.xml"
 ---

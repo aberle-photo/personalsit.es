@@ -1,6 +1,6 @@
 ---
 title: 'ThangQT'
 url: 'https://thangqt.com/'
-tags: ['oss', 'linux', 'web development', 'tinkering']
+tags: ['developer', 'linux', 'maker', 'open source']
 rss: 'https://thangqt.com/rss.xml'
 ---

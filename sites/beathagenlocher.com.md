@@ -1,6 +1,6 @@
 ---
 title: 'Beat Hagenlocher'
 url: 'https://beathagenlocher.com'
-tags: ['emacs', 'functional programming', 'programming languages', 'learning', 'nix', 'rationality', 'simplicity', 'writing', 'the web', 'software engineering']
+tags: ['developer', 'emacs', 'linux', 'philosophy', 'writer']
 rss: 'https://beathagenlocher/rss.xml'
 ---

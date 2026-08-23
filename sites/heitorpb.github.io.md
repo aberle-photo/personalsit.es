@@ -1,6 +1,6 @@
 ---
 title: "Heitor's Log"
 url: 'https://heitorpb.github.io/'
-tags: ['open source', 'blog', 'sysadmin', 'linux', 'developer']
+tags: ['blog', 'developer', 'linux', 'open source']
 rss: 'https://heitorpb.github.io/atom.xml'
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Bernard Nijenhuis'
 url: 'https://bnijenhuis.nl'
-tags: ['front-end developer']
+tags: ['developer']
 rss: 'https://bnijenhuis.nl/feed.xml'
 ---

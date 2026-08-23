@@ -1,6 +1,6 @@
 ---
 title: 'jopen'
 url: 'https://jfryusef.link/'
-tags: ['tech', 'unix']
+tags: ['linux', 'tech']
 rss: 'https://jfryusef.link/index.xml'
 ---

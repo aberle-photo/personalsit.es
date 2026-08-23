@@ -1,6 +1,6 @@
 ---
 title: 'Frills'
 url: 'https://frills.dev'
-tags: ['web developer', 'developer', 'front end', 'accessibility']
+tags: ['accessibility', 'developer']
 rss: 'https://frills.dev/all.xml'
 ---

@@ -1,5 +1,5 @@
 ---
 title: 'Simon Vreeman'
 url: 'https://vreeman.com'
-tags: ['Optimizer', 'CRO', 'SEO']
+tags: ['marketer']
 ---

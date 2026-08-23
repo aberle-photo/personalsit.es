@@ -1,6 +1,6 @@
 ---
 title: "Jefklak's Codex"
 url: 'https://jefklakscodex.com'
-tags: ['retro gaming']
+tags: ['games']
 rss: 'https://jefklakscodex.com/index.xml'
 ---

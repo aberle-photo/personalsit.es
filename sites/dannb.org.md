@@ -1,6 +1,6 @@
 ---
 title: "Dann Berg"
 url: "https://dannb.org"
-tags: ["finops", "youtube", "newsletter", "writer"]
+tags: ['film', 'writer']
 rss: "https://dannb.org/index.xml"
 ---

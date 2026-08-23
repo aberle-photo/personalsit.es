@@ -1,6 +1,6 @@
 ---
 title: 'Jeremy Sarber'
 url: 'https://jeremysarber.com'
-tags: ['pastor', 'christianity']
+tags: ['religion']
 rss: 'https://jeremysarber.com/feed.rss'
 ---

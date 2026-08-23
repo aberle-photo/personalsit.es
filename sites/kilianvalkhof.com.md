@@ -1,6 +1,6 @@
 ---
 title: 'Kilian Valkhof'
 url: 'https://kilianvalkhof.com'
-tags: ['Designer', 'Developer', 'UX', 'JavaScript','Electron']
+tags: ['designer', 'developer', 'javascript']
 rss: 'https://kilianvalkhof.com/feed/'
 ---

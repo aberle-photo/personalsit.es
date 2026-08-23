@@ -1,6 +1,6 @@
 ---
 title: 'Remy Sharp'
 url: 'https://remysharp.com'
-tags: ['webdev', 'blog', 'electronics', 'brighton', 'javascript']
+tags: ['blog', 'developer', 'javascript', 'maker']
 rss: 'https://remysharp.com/feed.xml'
 ---

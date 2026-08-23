@@ -1,5 +1,5 @@
 ---
 title: "Nick Gray"
 url: "https://nickgray.net/"
-tags: ["Texas", "writer"]
+tags: ['writer']
 ---

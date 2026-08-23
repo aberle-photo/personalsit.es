@@ -1,6 +1,6 @@
 ---
 title: 'Lemon 🍋'
 url: 'https://ahoylemon.xyz'
-tags: ['dumb sites', 'developer', 'speaker', 'pug']
+tags: ['developer', 'html', 'speaker']
 rss: 'https://ahoylemon.xyz/feed.xml'
 ---

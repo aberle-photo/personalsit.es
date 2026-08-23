@@ -1,6 +1,6 @@
 ---
 title: 'Jesper Bylund'
 url: 'https://jesperbylund.com'
-tags: ['product designer', 'entrepreneur']
+tags: ['designer', 'founder']
 rss: 'https://jesperbylund.com/rss.xml'
 ---

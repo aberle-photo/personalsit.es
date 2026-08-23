@@ -1,6 +1,6 @@
 ---
 title: "Electric Magic Factory"
 url: "https://electricmagicfactory.com"
-tags: ["frontend developer", "web designer"]
+tags: ['designer', 'developer']
 rss: "https://electricmagicfactory.com/feed.xml"
 ---

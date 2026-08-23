@@ -1,6 +1,6 @@
 ---
 title: 'Mike Pierce'
 url: 'https://mkprc.xyz/'
-tags: ['mathematics', 'education', 'typography', 'linux']
+tags: ['designer', 'educator', 'linux', 'science']
 rss: 'https://mkprc.xyz/feed.xml'
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Ben Stokman's Personal Site"
 url: 'https://benstokman.me'
-tags: ['computers', 'gaming', 'programming']
+tags: ['developer', 'games', 'tech']
 rss: 'https://benstokman.me/blog/feed.rss'
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Simon Højberg'
 url: 'https://hojberg.xyz'
-tags: ['frontend', 'developer', 'designer', 'writer', 'cooking', 'art']
+tags: ['artist', 'designer', 'developer', 'food', 'writer']
 rss: 'https://hojberg.xyz/rss.xml'
 ---

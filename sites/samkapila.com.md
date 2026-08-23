@@ -1,6 +1,6 @@
 ---
 title: 'Sameera Kapila'
 url: 'https://samkapila.com'
-tags: ['designer', 'developer', 'education']
+tags: ['designer', 'developer', 'educator']
 rss: 'https://samkapila.com/feed.xml'
 ---

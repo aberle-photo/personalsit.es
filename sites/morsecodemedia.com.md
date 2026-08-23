@@ -1,5 +1,5 @@
 ---
 title: 'morsecodemedia.com'
 url: 'https://morsecodemedia.com'
-tags: ['Web Developer', 'Technology Director', 'Consultant', 'Voice Assistants', 'Interactive Touch Panels', 'Email Development', 'Digital Strategy', 'Healthcare', 'B2B', 'B2C', 'VueJS', 'NuxtJS', 'Javascript', 'PHP', 'MySQL', 'HTML', 'CSS']
+tags: ['css', 'developer', 'freelancer', 'html', 'javascript', 'leadership', 'marketer', 'php', 'vue']
 ---

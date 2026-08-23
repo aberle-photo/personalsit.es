@@ -1,6 +1,6 @@
 ---
 title: '@seneth'
 url: 'https://seneth.me'
-tags: ['indie-developer', 'writer']
+tags: ['developer', 'writer']
 rss: 'https://seneth.me/feed.xml'
 ---

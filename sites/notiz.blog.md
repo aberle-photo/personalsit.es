@@ -1,6 +1,6 @@
 ---
 title: 'notizBlog'
 url: 'https://notiz.blog'
-tags: ['indieweb', 'openweb', 'fediverse', 'podcaster', 'developer', 'WordPress']
+tags: ['developer', 'indieweb', 'podcaster', 'wordpress']
 rss: 'https://notiz.blog/feed/'
 ---

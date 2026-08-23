@@ -1,6 +1,6 @@
 ---
 title: 'Matthew Roach'
 url: 'https://www.matthewroach.me'
-tags: ['Front End Developer']
+tags: ['developer']
 rss: 'https://www.matthewroach.me/feed/'
 ---

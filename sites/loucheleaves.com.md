@@ -1,6 +1,6 @@
 ---
 title: 'Louche Leaves'
 url: 'https://loucheleaves.com'
-tags: ['author', 'bookseller']
+tags: ['books', 'writer']
 rss: 'https://loucheleaves.com/rss'
 ---

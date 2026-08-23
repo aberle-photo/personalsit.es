@@ -1,6 +1,6 @@
 ---
 title: 'falk schröter'
 url: 'https://klotter.supply'
-tags: ['comics', 'graphic design', 'typography']
+tags: ['comics', 'designer']
 rss: 'https://klotter.supply/feed'
 ---

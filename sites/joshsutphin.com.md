@@ -1,6 +1,6 @@
 ---
 title: 'Josh Sutphin'
 url: 'https://joshsutphin.com'
-tags: ['author', 'game developer', 'publisher', 'writer']
+tags: ['developer', 'games', 'writer']
 rss: 'https://joshsutphin.com/feed.atom'
 ---

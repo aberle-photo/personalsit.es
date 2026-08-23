@@ -1,6 +1,6 @@
 ---
 title: 'Sanjay Nair'
 url: 'https://sanjaynair.me'
-tags: ['software engineer', 'leader']
+tags: ['developer', 'leadership']
 rss: 'https://sanjaynair.me/feed.xml'
 ---

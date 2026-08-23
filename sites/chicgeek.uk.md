@@ -1,5 +1,5 @@
 ---
 title: 'Laura Kishimoto'
 url: 'https://www.chicgeek.uk'
-tags: ['Front end development', 'CSS', 'HTML', 'Javascript', 'Engineering management', 'People', 'Inclusive culture', 'Knowledge sharing']
+tags: ['css', 'developer', 'html', 'javascript', 'leadership']
 ---

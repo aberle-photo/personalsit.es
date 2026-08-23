@@ -1,6 +1,6 @@
 ---
 title: 'Rakhim'
 url: 'https://rakhim.org/'
-tags: ['programmer', 'writer']
+tags: ['developer', 'writer']
 rss: 'https://rakhim.org/index.xml'
 ---

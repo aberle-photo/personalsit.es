@@ -1,6 +1,6 @@
 ---
 title: 'Maximilian Hoffmann'
 url: 'https://max.hn'
-tags: ['Software Engineer', 'Fullstack Developer', 'IndieWeb', 'HTML', 'CSS', 'Elm', 'JavaScript', 'Elixir', 'Gleam']
+tags: ['css', 'developer', 'html', 'indieweb', 'javascript']
 rss: 'https://max.hn/blog.xml?lang=en'
 ---

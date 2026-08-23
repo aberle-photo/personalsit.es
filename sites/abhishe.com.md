@@ -1,6 +1,6 @@
 ---
 title: 'Abhishek Singh'
 url: 'https://abhishe.com'
-tags: ['writer', 'thinker', 'humanity', 'psychology', 'life', 'philosophy', 'generalist']
+tags: ['philosophy', 'science', 'tech', 'writer']
 rss: 'https://abhishe.com/rss.xml'
 ---

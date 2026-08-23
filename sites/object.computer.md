@@ -1,6 +1,6 @@
 ---
 title: 'object dot computer'
 url: 'https://object.computer'
-tags: ['personal blog', 'cycling','backpacking', 'photography']
+tags: ['blog', 'photographer', 'sports', 'travel']
 rss: 'https://object.computer/feed.xml'
 ---

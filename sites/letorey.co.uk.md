@@ -1,6 +1,6 @@
 ---
 title: 'Letorey.co.uk'
 url: 'https://letorey.co.uk'
-tags: ["Music", "Books", "Food", "Tech", "Travel", "Thoughts"]
+tags: ['books', 'food', 'musician', 'tech', 'travel']
 rss: 'https://letorey.co.uk/feed.xml'
 ---

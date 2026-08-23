@@ -1,6 +1,6 @@
 ---
 title: 'ttntm.me'
 url: 'https://ttntm.me'
-tags: ['web development', 'blog', 'personal']
+tags: ['blog', 'developer']
 rss: 'https://ttntm.me/blog/feed.xml'
 ---

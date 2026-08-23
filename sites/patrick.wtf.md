@@ -1,6 +1,6 @@
 ---
 title: 'Patrick Arminio'
 url: 'https://patrick.wtf'
-tags: ['developer advocate', 'full stack developer', 'graphql']
+tags: ['developer']
 rss: 'https://patrick.wtf/rss.xml'
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Ezhik's website"
 url: 'https://ezhik.jp'
-tags: ['hedgehog', 'programmer', 'japan']
+tags: ['developer', 'travel']
 rss: 'https://ezhik.jp/feed.xml'
 ---

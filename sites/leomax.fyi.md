@@ -1,6 +1,6 @@
 ---
 title: 'Leonardo Max'
 url: 'https://leomax.fyi'
-tags: ['software engineer', 'writer', 'book notes', 'mental models']
+tags: ['books', 'developer', 'writer']
 rss: 'https://leomax.fyi/rss.xml'
 ---

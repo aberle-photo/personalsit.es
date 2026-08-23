@@ -1,6 +1,6 @@
 ---
 title: 'Bill Bennett'
 url: 'https://billbennett.co.nz'
-tags: ['technology', 'writer', 'journalist', 'New Zealand', 'telecommunications']
+tags: ['tech', 'travel', 'writer']
 rss: 'https://billbennett.co.nz/rss/'
 ---

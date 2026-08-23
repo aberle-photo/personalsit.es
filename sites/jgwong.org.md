@@ -1,6 +1,6 @@
 ---
 title: 'jgwong.org'
 url: 'https://jgwong.org'
-tags: ['web developer', 'journal comic', 'artist']
+tags: ['artist', 'blog', 'comics', 'developer']
 rss: 'https://jgwong.org/blog/feed/'
 ---

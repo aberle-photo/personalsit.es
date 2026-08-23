@@ -1,6 +1,6 @@
 ---
 title: 'Benjamin Smallwood'
 url: 'https://benjaminsmallwood.com/'
-tags: ['web developer', 'digital minimalist']
+tags: ['developer']
 rss: 'https://benjaminsmallwood.com/sitemap.xml'
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Avil Page'
 url: 'https://avilpage.com'
-tags: ['software engineer', 'writer', 'artist', 'health', 'wealth']
+tags: ['artist', 'developer', 'writer']
 rss: 'https://avilpage.com/rss.xml'
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'C:/local/sprite/index'
 url: 'https://riflesniper.art'
-tags: ['illustrator', 'artist', 'character artist']
+tags: ['artist', 'illustrator']
 rss: 'https://riflesniper.art/artfeed/'
 ---

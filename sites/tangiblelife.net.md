@@ -1,6 +1,6 @@
 ---
 title: 'Tangible Life'
 url: 'https://tangiblelife.net'
-tags: ['life', 'intention']
+tags: ['blog']
 rss: 'https://tangiblelife.net/feed.rss'
 ---

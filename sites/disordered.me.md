@@ -1,6 +1,6 @@
 ---
 title: 'Disordered Human'
 url: 'https://disordered.me/'
-tags: ['think', 'create', 'skateboard']
+tags: ['sports']
 rss: 'https://disordered.me/rss.xml'
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'anith.blog'
 url: 'https://anith.blog'
-tags: ['designer', 'writer', 'creativity', 'personal']
+tags: ['blog', 'designer', 'writer']
 rss: 'https://anith.blog/feed/feed.xml'
 ---

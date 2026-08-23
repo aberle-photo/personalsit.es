@@ -1,6 +1,6 @@
 ---
 title: 'Damian Walsh'
 url: 'https://damianwalsh.co.uk/'
-tags: ['Design', 'Code', 'Thoughts', 'Words', 'Images']
+tags: ['designer', 'developer', 'writer']
 rss: 'https://damianwalsh.co.uk/feed.xml'
 ---

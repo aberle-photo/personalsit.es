@@ -1,6 +1,6 @@
 ---
 title: 'Jibin Thomas'
 url: 'https://jibin.tech'
-tags: ['frontend web developer', 'blogger']
+tags: ['developer', 'writer']
 rss: 'https://jibin.tech/rss.xml'
 ---

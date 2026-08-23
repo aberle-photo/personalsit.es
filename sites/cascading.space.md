@@ -1,6 +1,6 @@
 ---
 title: 'cascading space'
 url: 'https://cascading.space'
-tags: ['web designer', 'web developer', 'front end', 'blogger', 'furry', 'artist']
+tags: ['artist', 'designer', 'developer', 'writer']
 rss: 'https://cascading.space/feed.xml'
 ---

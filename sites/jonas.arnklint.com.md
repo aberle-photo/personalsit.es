@@ -1,5 +1,5 @@
 ---
 title: 'Jonas Arnklint ⌘'
 url: 'https://jonas.arnklint.com'
-tags: ['developer', 'business', 'builder', 'product']
+tags: ['developer', 'founder', 'maker', 'product manager']
 ---

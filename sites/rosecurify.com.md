@@ -1,6 +1,6 @@
 ---
 title: 'Rosecurify - Omar Kurt'
 url: 'https://rosecurify.com'
-tags: ['web security', 'vulnerabilities', 'seclog' ,  'application security']
+tags: ['security']
 rss: 'https://rosecurify.com/feed/feed.xml'
 ---

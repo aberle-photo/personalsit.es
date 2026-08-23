@@ -1,6 +1,6 @@
 ---
 title: 'eric-pierce.com'
 url: 'https://eric-pierce.com'
-tags: ['data science', 'projects', 'travel', 'machine learning', 'computer vision','artificial intelligence']
+tags: ['ai', 'data', 'portfolio', 'travel']
 rss: 'https://eric-pierce.com/index.xml'
 ---

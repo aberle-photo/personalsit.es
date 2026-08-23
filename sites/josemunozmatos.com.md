@@ -1,6 +1,6 @@
 ---
 title: 'Jose Munoz'
 url: 'https://www.josemunozmatos.com'
-tags: ['ux designer', 'lego', 'tech']
+tags: ['designer', 'maker', 'tech']
 rss: 'https://www.josemunozmatos.com/blog/rss.xml'
 ---

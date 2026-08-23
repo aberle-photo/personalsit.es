@@ -1,6 +1,6 @@
 ---
 title: 'Ebuka Ezeh'
 url: 'https://ebuka.ezeh.me'
-tags: ['frontend', 'software', 'web', 'design', 'product']
+tags: ['designer', 'developer', 'product manager']
 rss: 'https://ebuka.ezeh.me/rss.xml'
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'alistairshepherd.uk'
 url: 'https://alistairshepherd.uk'
-tags: ['web developer', 'developer', '11ty']
+tags: ['developer', 'ssg']
 rss: 'https://alistairshepherd.uk/feed.xml'
 ---

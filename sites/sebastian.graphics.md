@@ -1,6 +1,6 @@
 ---
 title: 'sebastian.graphics'
 url: 'https://sebastian.graphics'
-tags: ['programming', 'curator', 'art']
+tags: ['artist', 'developer']
 rss: 'https://sebastian.graphics/feed.rss'
 ---

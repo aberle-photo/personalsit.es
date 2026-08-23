@@ -1,6 +1,6 @@
 ---
 title: 'Leslie Cohn-Wein'
 url: 'https://leslie.dev'
-tags: ['frontend engineer', 'jamstack', 'react', 'accessibility']
+tags: ['accessibility', 'developer', 'react', 'ssg']
 rss: 'https://leslie.dev/feed.xml'
 ---

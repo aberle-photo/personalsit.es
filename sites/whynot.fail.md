@@ -1,6 +1,6 @@
 ---
 title: 'WhyNot.Fail'
 url: 'https://whynot.fail'
-tags: ['devops', 'software engineer', 'electronics', '3d printing']
+tags: ['developer', 'maker']
 rss: 'https://whynot.fail/index.xml'
 ---

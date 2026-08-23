@@ -1,6 +1,6 @@
 ---
 title: 'Serhiy Barhamon'
 url: 'https://barhamon.com'
-tags: ['software engineer', 'adventurer']
+tags: ['developer', 'travel']
 rss: 'https://barhamon.com/feed.xml'
 ---

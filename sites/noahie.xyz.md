@@ -1,6 +1,6 @@
 ---
 title: "Noahie's Terminal"
 url: 'https://noahie.xyz'
-tags: ['terminal']
+tags: ['linux']
 rss: 'https://noahie.xyz/blog/rss.xml'
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Mykal Machon'
 url: 'https://mykalmachon.com'
-tags: ['web dev', 'blog', 'indieweb', 'IT', 'higher ed']
+tags: ['blog', 'developer', 'educator', 'indieweb', 'tech']
 rss: 'https://mykalmachon.com/feeds/posts.xml'
 ---

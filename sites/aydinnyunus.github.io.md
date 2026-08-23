@@ -1,6 +1,6 @@
 ---
 title: 'Yunus AYDIN'
 url: 'https://aydinnyunus.github.io'
-tags: ['security', 'developer', 'appsec', 'cybersecurity']
+tags: ['developer', 'security']
 rss: 'https://aydinnyunus.github.io/feed.xml'
 ---

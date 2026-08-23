@@ -1,6 +1,6 @@
 ---
 title: 'All-Encompassing Trip'
 url: 'https://www.allencompassingtrip.com'
-tags: ['photography']
+tags: ['photographer']
 rss: 'https://www.allencompassingtrip.com/feed'
 ---

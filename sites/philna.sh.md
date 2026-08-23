@@ -1,6 +1,6 @@
 ---
 title: 'Phil Nash'
 url: 'https://philna.sh'
-tags: ['Developer', 'Speaker', 'Blogger', 'JavaScript', 'Ruby']
+tags: ['developer', 'javascript', 'ruby', 'speaker', 'writer']
 rss: 'https://philna.sh/feed.xml'
 ---

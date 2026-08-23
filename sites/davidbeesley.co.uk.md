@@ -1,6 +1,6 @@
 ---
 title: 'David Beesley'
 url: 'https://davidbeesley.co.uk'
-tags: ['web developer', 'writer', 'freelance']
+tags: ['developer', 'freelancer', 'writer']
 rss: 'https://davidbeesley.co.uk/rss.xml'
 ---

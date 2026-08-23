@@ -1,6 +1,6 @@
 ---
 title: 'Francesco Schwarz'
 url: 'https://isellsoap.net'
-tags: ['frontend developer', 'indieweb']
+tags: ['developer', 'indieweb']
 rss: 'https://isellsoap.net/rss/'
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'deletescape'
 url: 'https://deletescape.ch'
-tags: ['mobile developer', 'kotlin lover', 'reverse engineer']
+tags: ['developer', 'mobile', 'security']
 rss: 'https://deletescape.ch/feed.xml'
 ---

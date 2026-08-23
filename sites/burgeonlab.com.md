@@ -1,7 +1,7 @@
 ---
 title: 'Burgeon Lab'
 url: 'https://burgeonlab.com'
-tags: ['blogger', 'hugo', 'indieweb', 'tech', 'tutorials', 'personal blog', 'FOSS', 'self-taught web dev']
+tags: ['blog', 'developer', 'indieweb', 'open source', 'ssg', 'tech', 'writer']
 rss: 'https://burgeonlab.com/index.xml'
 ---
 

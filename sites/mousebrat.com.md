@@ -1,6 +1,6 @@
 ---
 title: "Shawn Carter"
 url: "https://mousebrat.com"
-tags: ["photographer", "designer", "writer", "podcaster"]
+tags: ['designer', 'photographer', 'podcaster', 'writer']
 rss: "https://mousebrat.com/feed/"
 ---

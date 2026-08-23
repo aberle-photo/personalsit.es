@@ -1,6 +1,6 @@
 ---
 title: 'Dana Byerly'
 url: 'https://danabyerly.com'
-tags: ['interaction designer', 'front-end developer', 'prototyping', 'writing']
+tags: ['designer', 'developer', 'writer']
 rss: 'https://danabyerly.com/feed.xml'
 ---

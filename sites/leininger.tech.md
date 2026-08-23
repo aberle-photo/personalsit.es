@@ -1,6 +1,6 @@
 ---
 title: 'leininger.tech'
 url: 'https://leininger.tech'
-tags: ['Designer', 'Developer', 'Nerd', 'CSS', 'HTML', 'Keyboard Shortcut Wizard']
+tags: ['css', 'designer', 'developer', 'html', 'tech']
 rss: 'https://leininger.tech/feed/feed.xml'
 ---

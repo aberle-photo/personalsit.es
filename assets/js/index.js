@@ -1,17 +1,28 @@
 // @ts-check
 
-const toggleTheme = () => {
-  const root = document.documentElement;
-  const currentTheme = root.getAttribute('data-theme');
-
-  const isDark = currentTheme
+const getIsDark = () => {
+  const currentTheme = document.documentElement.getAttribute('data-theme');
+  return currentTheme
     ? currentTheme === 'dark'
     : window.matchMedia('(prefers-color-scheme: dark)').matches;
+};
 
-  const newTheme = isDark ? 'light' : 'dark';
+const syncThemeToggle = () => {
+  document.querySelector('.theme-toggle').setAttribute(
+    'aria-label',
+    getIsDark() ? 'Switch to light theme' : 'Switch to dark theme'
+  );
+};
+
+const toggleTheme = () => {
+  const root = document.documentElement;
+  const newTheme = getIsDark() ? 'light' : 'dark';
   root.setAttribute('data-theme', newTheme);
   localStorage.setItem('theme', newTheme);
+  syncThemeToggle();
 };
+
+syncThemeToggle();
 
 const initTagFilter = () => {
   const filterSection = document.querySelector('.tag-filter');

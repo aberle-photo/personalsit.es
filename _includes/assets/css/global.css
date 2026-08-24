@@ -583,7 +583,15 @@ a {
     background-repeat: no-repeat;
   }
 
-  [data-theme="dark"] .header::before, 
+
+  @media (prefers-color-scheme: dark) {
+    .header::before,
+    .header::after {
+        filter: invert(1);
+    }
+  }
+
+  [data-theme="dark"] .header::before,
   [data-theme="dark"] .header::after {
       filter: invert(1);
   }

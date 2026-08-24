@@ -482,7 +482,8 @@ a {
   z-index: 2;
   inset-block-start: calc(100% + 1rem);
   inset-inline-start: 0;
-  padding-block-end: 1rem;
+  padding-block: 0.5rem;
+  margin-block-start: 0.5rem;
   border-block: 2px solid var(--color__border);
 }
 
@@ -616,7 +617,6 @@ a {
     position: absolute;
     display: none;
     inline-size: calc(200% + 2rem);
-    padding-block-start: 1rem;
   }
 
   .item:has(.item__details[open]) {

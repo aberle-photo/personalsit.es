@@ -50,11 +50,11 @@ svg:not([fill]) {
 :root {
   color-scheme: light dark;
 
-  --color__site--background: light-dark(hsl(0, 0%, 97%), hsl(220, 5%, 13%));
-  --color__text--primary: light-dark(hsl(0, 0%, 1%), hsl(0, 0%, 97%));
-  --color__text--secondary: light-dark(hsl(0, 0%, 42%), hsl(0, 0%, 80%));
-  --color__text--tertiary: light-dark(hsl(0, 0%, 54%), hsl(0, 0%, 70%));
-  --color__border: light-dark(hsl(0, 0%, 87%), hsl(220, 5%, 8%));
+  --color__site--background: light-dark(oklch(0.97 0 0), oklch(0.25 0 264.49));
+  --color__text--primary: light-dark(oklch(0.09 0 0), oklch(0.98 0 0));
+  --color__text--secondary: light-dark(oklch(0.5 0 0), oklch(0.85 0 0));
+  --color__text--tertiary: light-dark(oklch(0.5 0 0), oklch(0.77 0 0));
+  --color__border: light-dark(oklch(0.9 0 0), oklch(0.4 0 0));
 }
 
 [data-theme="light"] {

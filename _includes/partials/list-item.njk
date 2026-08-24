@@ -9,7 +9,7 @@
             <span class="item__url">{{ item.data.url | cleanUrl }}</span>
             <span class="item__toggle">
                 Details
-                <svg viewBox="0 0 13 13">
+                <svg viewBox="0 0 13 13" aria-hidden="true">
                     <use href="#arrow-up-right"></use>
                 </svg>
             </span>
@@ -28,14 +28,14 @@
                 <div class="item-tray__column item-tray__column--links">
                     {% if item.data.rss %}
                         <a class="item-tray__link item-tray__link--feed" href="{{ item.data.rss }}">
-                        <svg viewBox="0 0 13 13">
+                        <svg viewBox="0 0 13 13" aria-hidden="true">
                             <use href="#arrow-up-right"></use>
                         </svg>
                         Go to feed
                     </a>
                     {% endif %}
                     <a class="item-tray__link item-tray__link--site" href="{{ item.data.url }}">
-                        <svg viewBox="0 0 13 13">
+                        <svg viewBox="0 0 13 13" aria-hidden="true">
                             <use href="#arrow-up-right"></use>
                         </svg>
                         Go to site
